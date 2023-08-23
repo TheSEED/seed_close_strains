@@ -12,6 +12,8 @@ use Carp;
 use JSON::XS;
 use Biochemistry;
 use P3DataAPI;
+use File::Basename;
+use File::Slurp;
 
 our $have_mousse = 0;
 eval {
@@ -86,11 +88,13 @@ sub get_closest_genome_set
 }
 
 sub RAST_job_to_CS_directory {
-    my($jobID,$csD,$N,$close_genomes) = @_;
+    my($jobDir,$csD,$N,$close_genomes) = @_;
 
     my @outgroups = get_outgroups_list();;
 
-    my $rpD = "/vol/rast-prod/jobs/$jobID/rp";
+    my $jobID = basename($jobDir);
+
+    my $rpD = "$jobDir/rp";
     opendir(RPD,$rpD) || return undef;
     my @tmp = grep { $_ =~ /^(\d+\.\d+)/ } readdir(RPD);
     closedir(RPD);
@@ -134,7 +138,7 @@ sub get_genome_objects {
     my $gtoD = "$csD/GTOs";
     mkdir($gtoD,0777);
     open(TYPES,">$csD/genome.types") || die "could not open $csD/genome.types";
-    foreach $_ (`cat $csD/rep.genomes`)
+    foreach $_ (read_file("$csD/rep.genomes"))
     {
 	if ($_ =~ /^(\d+\.\d+)$/)       # if single field with PubSEED ID
 	{
@@ -288,7 +292,7 @@ sub set_status
 sub genome_types {
     my($dataDF) = @_;
 
-    my %types = map {($_ =~ /^(\S+)\t(\S+)/) ? ($1 => $2) : () } `cat $dataDF/genome.types`;
+    my %types = map {($_ =~ /^(\S+)\t(\S+)/) ? ($1 => $2) : () } read_file("$dataDF/genome.types");
     return \%types;
 }
 
@@ -337,7 +341,7 @@ sub build_tree {
 
     &SeedUtils::run("CS_build_fasta_for_phylogeny -d $csD");
     &SeedUtils::run("pg_build_newick_tree -d $csD");
-    my @labels = map { ($_ =~ /^(\S+)\t(\S.*\S)/) ? "$1\t$1: $2" : () } `cat $csD/genome.names`;
+    my @labels = map { ($_ =~ /^(\S+)\t(\S.*\S)/) ? "$1\t$1: $2" : () } read_file("$csD/genome.names");
     my($labels_fh, $labels_file)  = tempfile();
     foreach $_ (@labels)
     {
@@ -409,7 +413,7 @@ sub reactions_present {
     my %rolesH = map { ($_ => 1) } @$roles_used_in_modeling;
 
     my %roles_hit;
-    foreach $_ (`cat $familiesF`)
+    foreach $_ (read_file($familiesF))
     {
 	if ($_ =~ /^\S+\t(\S[^\t]*)\t[^\t]*\tfig\|(\d+\.\d+)/)
 	{
@@ -503,10 +507,10 @@ END
     my $dataDF = $parms->{dataDF};
     $dataDF =~ /([^\/]+)$/; 
     my $dataD = $1;
-    my %types = map { ($_ =~ /^(\S+)\t(\S+)/) ? ($1 => $2) : () } `cat $dataDF/genome.types`;
+    my %types = map { ($_ =~ /^(\S+)\t(\S+)/) ? ($1 => $2) : () } read_file("$dataDF/genome.types");
 
     my @tree;
-    my @tmp = `cat $dataDF/readable.tree`;
+    my @tmp = read_file("$dataDF/readable.tree");
     foreach $_ (@tmp)
     {
 	if ($_ =~ /^(.*\+ )(n\d+)$/)
@@ -561,10 +565,10 @@ END
     my $dataDF = $parms->{dataDF};
     $dataDF =~ /([^\/]+)$/; 
     my $dataD = $1;
-    my %types = map { ($_ =~ /^(\S+)\t(\S+)/) ? ($1 => $2) : () } `cat $dataDF/genome.types`;
+    my %types = map { ($_ =~ /^(\S+)\t(\S+)/) ? ($1 => $2) : () } read_file("$dataDF/genome.types");
 
     my @tree;
-    my @tmp = `cat $dataDF/readable.tree`;
+    my @tmp = read_file("$dataDF/readable.tree");
     foreach $_ (@tmp)
     {
 	if ($_ =~ /^(.*\+ )(n\d+)$/)
@@ -730,7 +734,7 @@ sub compute_signatures {
 	}
     }
     my $families = "$dataDF/families.all";
-    my $tree = &tree_utilities::parse_newick_tree(join("",`cat $dataDF/labeled.tree`));
+    my $tree = &tree_utilities::parse_newick_tree(scalar read_file("$dataDF/labeled.tree"));
     my $indexP = &tree_utilities::tree_index_tables($tree);
     my $genomes = {};
     &in_set(\@out,$tree,$indexP,1,$genomes);
@@ -819,7 +823,7 @@ sub compute_signatures_reactions {
 	}
     }
     my $reactionsF = "$dataDF/reactions.on.tree";
-    my $tree = &tree_utilities::parse_newick_tree(join("",`cat $dataDF/labeled.tree`));
+    my $tree = &tree_utilities::parse_newick_tree(scalar read_file("$dataDF/labeled.tree"));
     my $indexP = &tree_utilities::tree_index_tables($tree);
     my $genomes = {};
     &in_set(\@out,$tree,$indexP,1,$genomes);
@@ -828,7 +832,7 @@ sub compute_signatures_reactions {
     my $s2N = grep { $genomes->{$_} == 2 } keys(%$genomes);
 
     my %by_reaction;
-    foreach $_ (`cat $reactionsF`)
+    foreach $_ (read_file($reactionsF))
     {
         if ($_ =~ /^(\S+)\t(\S+)\t([01])/)
 	{
@@ -939,7 +943,7 @@ sub coupling_data {
     my($dataDF,$famsH,$base) = @_;
 
     my $coupled = {};
-    foreach $_ (`cat $dataDF/coupled.families`)
+    foreach $_ (read_file("$dataDF/coupled.families"))
     {
 	if (($_ =~ /(\S+)\t(\S+)\t(\d+)/) && $famsH->{$1} && $famsH->{$2} && ($1 ne $2))
 	{
@@ -963,7 +967,7 @@ sub show_family_pegs {
 #	if (($_ =~ /^(\d+)\t(\S[^\t]*\S)/) && ($1 == $families)) { $func = $2 }
 	if (($_ =~ /^(\d+)\t(\S[^\t]*\S)/) && &fam_in_set($1,$families)) { $func = $2 }
     }
-    my %genome_names = map { ($_ =~ /^(\S+)\t(\S.*\S)/) ? ($1 => $2) : () } `cat $dataDF/genome.names`;
+    my %genome_names = map { ($_ =~ /^(\S+)\t(\S.*\S)/) ? ($1 => $2) : () } read_file("$dataDF/genome.names");
     my $col_hdrs = ['','Genome','Genome Name','Peg'];
     my @tuples   = map { my $tuple = $_; $tuple->[3] = &peg_link($tuple->[3],$parms); $tuple } 
 	           sort { $a->[1] cmp $b->[1] } 
@@ -1013,7 +1017,7 @@ sub show_func {
 		     {
 			 () 
 		     }
-                   } `cat $dataDF/families.all`;
+                   } read_file("$dataDF/families.all");
     my $col_hdrs = ['Family','PEGs in Family','Distribution on Tree','Size'];
     my @tab      = map { [$_,
 			  &CloseStrains::show_fam_table_link($dataDF,$_,$base),
@@ -1030,12 +1034,12 @@ sub show_func {
     push(@$html,"<hr>");
     my @gained = map { (($_ =~ /^(\S+)\t(\S+)\t(\d+)\t0\t1/) && $fams{$3}) ? 
 			 [$1,&show_node_link($dataD,$2,'families',$base),&CloseStrains::show_fam_table_link($dataDF,$3,$base)] : () }
-               `cat $dataDF/where.shifts.occurred`;
+               read_file("$dataDF/where.shifts.occurred");
     push(@$html,&HTML::make_table(['Ancestor','Descendant','Family'],\@gained,"Where $function was GAINED"));
     push(@$html,"<hr><br>");
     my @lost = map { (($_ =~ /^(\S+)\t(\S+)\t(\d+)\t1\t0/) && $fams{$3}) ? 
 			 [$1,&show_node_link($dataD,$2,'families',$base),&CloseStrains::show_fam_table_link($dataDF,$3,$base)] : () }
-               `cat $dataDF/where.shifts.occurred`;
+               read_file("$dataDF/where.shifts.occurred");
     push(@$html,&HTML::make_table(['Ancestor','Descendant','Family'],\@lost,"Where $function was LOST"));
 }
 
@@ -1062,9 +1066,9 @@ sub show_family_tree {
     my $func   = (@tuples > 0) ? $tuples[0]->[1] : 'hypothetical protein';
     my %has    = map { ($_->[2] =~ /fig\|(\d+\.\d+)/) ? ($1 => 1) : () } @tuples;
     my @tree;
-    my %node_vals = map { (($_ =~ /^(\S+)\t(n\d+)\t(\S+)/) && ($family eq $1)) ? ($2 => $3) : () } `cat $dataDF/families.on.tree`;
+    my %node_vals = map { (($_ =~ /^(\S+)\t(n\d+)\t(\S+)/) && ($family eq $1)) ? ($2 => $3) : () } read_file("$dataDF/families.on.tree");
 
-    my @tmp = `cat $dataDF/readable.tree`;
+    my @tmp = read_file("$dataDF/readable.tree");
     foreach $_ (@tmp)
     {
 	if ($_  =~ /^(.*\- )(\d+\.\d+)(:.*)$/)
@@ -1156,7 +1160,7 @@ sub show_otu_tree {
     $dataDF =~ /([^\/]+)$/; 
     my $dataD = $1;
     my @tree;
-    my @tmp = `cat $dataDF/readable.tree`;
+    my @tmp = read_file("$dataDF/readable.tree");
     foreach $_ (@tmp)
     {
 	if ($_ =~ /^(.*\+ )(n\d+)$/)
@@ -1192,7 +1196,7 @@ sub show_occurs_tree {
     {
 	my %genome_name = 
 	    map { ($_ =~ /^(\d+\.\d+)\t(\S.*\S)/) ? ($1 => $2) : () }
-	    `cat $dataDF/genome.names`;
+	    read_file("$dataDF/genome.names");
 	my $tmp_labels = "$FIG_Config::temp/tmp$$.labels";
 	open(LABELS,">$tmp_labels") || die "could not open $tmp_labels";
 	my %need_g;
@@ -1247,8 +1251,8 @@ sub show_reaction_on_tree {
     $dataDF =~ /([^\/]+)$/; 
     my $dataD = $1;
     my @tree;
-    my @tmp = `cat $dataDF/readable.tree`;
-    my %has = map { (($_ =~ /^(\S+)\t(\d+\.\d+)\t1$/) && ($1 eq $reaction)) ? ($2 => 1) : () } `cat $dataDF/reactions.on.tree`;
+    my @tmp = read_file("$dataDF/readable.tree");
+    my %has = map { (($_ =~ /^(\S+)\t(\d+\.\d+)\t1$/) && ($1 eq $reaction)) ? ($2 => 1) : () } read_file("$dataDF/reactions.on.tree");
     foreach $_ (@tmp)
     {
 	if ($_  =~ /^(.*\- )(\d+\.\d+)(:.*)$/)
@@ -1309,7 +1313,7 @@ sub show_changes_reactions {
     my @relevant_shifts = map { (($_ =~ /^(n\d+)\t(\S+)\t(\S+)\t(\S+)\t(\S+)/) && 
 				 ($2 eq $node) && 
 				 (($4 eq '0') || ($4 eq '1')) && 
-				 ($4 ne $5)) ? [$3,$4,$5] : () } `cat $dataDF/where.reaction.shifts.occurred`;
+				 ($4 ne $5)) ? [$3,$4,$5] : () } read_file("$dataDF/where.reaction.shifts.occurred");
 #   @relevant_shifts contains [reaction,anc-val,node-val]
 
     my @tabG = sort { ($a->[1] cmp $b->[1]) }
@@ -1340,7 +1344,7 @@ sub show_changes_adjacency {
     # an event is [anc,current-node,Fam,AdjAnc,AdjCurr]
     my @events = grep { $node eq $_->[1] } 
                  map { ($_ =~ /(\S+)\t(\S+)\t(\d+):\S+\t(\d+):\S+\t(\d+)/) ? [$1,$2,$3,$4,$5] : () }
-                 `cat $dataDF/placed.events`;
+                 read_File("$dataDF/placed.events");
 
     # The following hash is Family -> [adj-fam-ancestor,adj-fam-in-current-node]
     my %families = map { ($_->[2] => [$_->[3],$_->[4]])} @events;
@@ -1352,7 +1356,7 @@ sub show_changes_adjacency {
     my %fam_peg  = map { my $x; 
 			 (($_ =~ /^(\d+)\t\S+\t(\d+)\t\S+\t\S+\t(\S+)\t(\S+)/) && 
 		          ($x = $families{$1}) && (($x->[0] eq $2) || ($x->[1] eq $2))) ? ("$1,$2" => "$3,$4") : () }
-                   `cat $dataDF/adjacency.of.unique`;
+                   read_file("$dataDF/adjacency.of.unique");
     my %peg_to_func = map { (($_ =~ /^([^t]+)\t([^\t]*)\t(\S+)/) && $pegs_needed{$1}) ? ($3 => $2) : () } `cut -f1,2,4 $dataDF/families.all`;
     my @rows;
     my $ancestor;
@@ -1394,8 +1398,8 @@ sub show_changes_families {
 
     my %func = map { ($_ =~ /^(\d+)\t(\S[^\t]*\S)/) ? ($1 => $2) : () } `cut -f1,2 $dataDF/families.all`;
     my $col_hdrs = ['Show Where','Show PEGs','Family','Function (# Families)','Clusters','Coupling'];
-    my @tmp = grep { (($_ =~ /^\S+\t(\S+)/) && ($1 eq $node)) } 
-    `cat /$dataDF/where.shifts.occurred`;
+    # is this abs path correct in the next line?
+    my @tmp = grep { (($_ =~ /^\S+\t(\S+)/) && ($1 eq $node)) } read_file("/$dataDF/where.shifts.occurred");
     my @tabG  = sort { ($a->[4] cmp $b->[4]) or ($a->[3] <=> $b->[3]) }
     map { ($_ =~ /^(\S+)\t\S+\t(\S+)\t0\t1/) ? [&CloseStrains::show_fam_links($dataDF,$2,$base),$1,$2,$func{$2}] : () } 
     @tmp;
@@ -1476,11 +1480,11 @@ sub show_clusters {
     my $families = $cgi->param('families');
     my @families = split(/,/,$families);
     my %families = map { $_ => 1 } @families;
-    my %genome_names = map { ($_ =~ /^(\S+)\t(\S.*\S)/) ? ($1 => $2) : () } `cat $dataDF/genome.names`;
+    my %genome_names = map { ($_ =~ /^(\S+)\t(\S.*\S)/) ? ($1 => $2) : () } read_file("$dataDF/genome.names");
     my @genome_pegN_fam_func = sort { ($a->[0] <=> $b->[0]) or ($a->[1] <=> $b->[1]) }
     map { (($_ =~ /^(\S+)\t([^\t]*)\t[^\t]*\tfig\|(\d+\.\d+)\.peg\.(\d+)/) && $families{$1}) ?
 	      [$3,$4,$1,$2] : () 
-    } `cat $dataDF/families.all`;
+    } read_file("$dataDF/families.all");
     push(@$html,$cgi->h1('Relevant Clusters'));
     my $col_hdrs = ['Family','Function','PEG'];
     my $last = shift @genome_pegN_fam_func;
@@ -1517,7 +1521,7 @@ sub show_virulence_functions {
     my $dataD = $1;
 
     my $functions_in_fams = &functions_in_at_least_one_family($dataDF);
-    my @virulence_functions = map { chomp; $functions_in_fams->{$_} ? $_ : () } `cat $dataDF/virulence.functions`;
+    my @virulence_functions = map { chomp; $functions_in_fams->{$_} ? $_ : () } read_file("$dataDF/virulence.functions");
     my @links = map { [&CloseStrains::show_func_link($dataD,$_,$base)] } sort @virulence_functions;
     push(@$html,&HTML::make_table(['Function Sometimes Associated with Virulence'],
 				  \@links,

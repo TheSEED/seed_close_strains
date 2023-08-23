@@ -1,17 +1,22 @@
 package Biochemistry;
 use strict;
 use Data::Dumper;
+use Module::Metadata;
+use File::Slurp;
+use File::Basename;
 
 ####################### Biochemistry #####################
 
+
 sub biochemistry_dir {
-    return "/homes/overbeek/Ross/MakeCS.Kbase/Data/Biochemistry";
+    my $mod_dir = dirname(Module::Metadata->find_module_by_name("CloseStrains"));
+    return "$mod_dir/CloseStrains";
 }
 
 sub reactions_to_descriptions {
     my $biochemD = &biochemistry_dir;
 
-    my %react2desc = map { ($_ =~ /^(\S+)\t(\S.*\S)/) ? ($1 => $2) : () } `cat $biochemD/ReactionDesc.txt`;
+    my %react2desc = map { ($_ =~ /^(\S+)\t(\S.*\S)/) ? ($1 => $2) : () } read_file("$biochemD/ReactionDesc.txt");
     return \%react2desc;
 }
 
@@ -19,7 +24,7 @@ sub role_to_complexes {
     my $biochemD = &biochemistry_dir;
 
     my %role_to_complexes;
-    foreach $_ (`cat $biochemD/Role2Complex.txt`)
+    foreach $_ (read_file("$biochemD/Role2Complex.txt"))
     {
 	if ($_ =~ /^([^\t]+)\t(\S+)(\t(\S+))?/)
         {
@@ -35,7 +40,7 @@ sub complex_to_roles {
     my $biochemD = &biochemistry_dir;
 
     my %complex_to_roles;
-    foreach $_ (`cat $biochemD/Role2Complex.txt`)
+    foreach $_ (read_file("$biochemD/Role2Complex.txt"))
     {
 	if ($_ =~ /^([^\t]+)\t(\S+)(\t(\S+))?/)
         {
@@ -105,14 +110,21 @@ sub call_presence {
 
 sub roles_used_in_modeling {
     my $biochemD = &biochemistry_dir;
-    my @roles = map { chomp; $_ } `cut -f1 $biochemD/Role2Complex.txt | sort -u`;
+    my %roles;
+    for my $l (read_file("$biochemD/Role2Complex.txt"))
+    {
+	chomp;
+	my($r) = split(/\t/, $l);
+	$roles{$r} = 1;
+    }
+    my @roles = sort { $a cmp $b } keys %roles;
     return \@roles;
 }
 
 sub complex_to_reactions {
     my $biochemD = &biochemistry_dir;
     my %complex_to_reactions;
-    foreach $_ (`cat $biochemD/Complex2Reaction.txt`)
+    foreach $_ (read_file("$biochemD/Complex2Reaction.txt"))
     {
 	if ($_ = /(\S+)\t(\S+)/)
 	{
@@ -125,7 +137,7 @@ sub complex_to_reactions {
 sub reaction_to_complexes {
     my $biochemD = &biochemistry_dir;
     my %reaction_to_complexes;
-    foreach $_ (`cat $biochemD/Complex2Reaction.txt`)
+    foreach $_ (read_file("$biochemD/Complex2Reaction.txt"))
     {
 	if ($_ = /(\S+)\t(\S+)/)
 	{
