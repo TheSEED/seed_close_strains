@@ -1,0 +1,2221 @@
+D-amino acid dehydrogenase small subunit (EC 1.4.99.1)	mscpx.676
+Omega-amino acid--pyruvate aminotransferase (EC 2.6.1.18)	mscpx.395
+Pyridoxine 4-oxidase (EC 1.1.3.12)	mscpx.1255
+2-(acetamidomethylene)succinate hydrolase (EC 3.5.1.29)	mscpx.190
+Vinylacetyl-CoA Delta-isomerase (EC 5.3.3.3)	mscpx.207
+4-hydroxybutanoyl-CoA dehydratase (EC 4.2.1.-)	mscpx.1542
+4-hydroxybutyrate:acetyl-CoA CoA transferase (EC 2.3.1.-)	mscpx.1005
+NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	mscpx.1064
+4-aminobutyraldehyde dehydrogenase (EC 1.2.1.19)	mscpx.1682
+Succinate-semialdehyde dehydrogenase [NAD] (EC 1.2.1.24)	mscpx.1694
+Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.16)	mscpx.1308
+Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)	mscpx.1341
+Gamma-glutamyl-aminobutyraldehyde dehydrogenase (EC 1.2.1.-)	mscpx.1208
+Glutamate decarboxylase, mammalian 65 kDa isoform (EC 4.1.1.15)	mscpx.476
+Glutamate decarboxylase, eukaryotic type (EC 4.1.1.15)	mscpx.480
+Glutamate decarboxylase (EC 4.1.1.15)	mscpx.478
+Probable glutamate/gamma-aminobutyrate antiporter	mscpx.1804
+Glutaminase (EC 3.5.1.2)	mscpx.1185
+Taurine transport system permease protein tauC	mscpx.1039
+Late competence protein ComER, proline oxidase (EC 1.5.1.2)	mscpx.1510
+Similar to ferrous iron transporter protein B	mscpx.1233
+Cytosine deaminase (EC 3.5.4.1)	mscpx.487
+Methionine aminopeptidase (EC 3.4.11.18)	mscpx.45
+Chromosome partition protein smc	mscpx.584
+Segregation and condensation protein B	mscpx.584
+Segregation and condensation protein A	mscpx.584
+Carbonic anhydrase 2 (EC 4.2.1.1)	mscpx.1443
+Cyanate hydratase (EC 4.2.1.104)	mscpx.864
+Cyanate transport protein CynX	mscpx.1635
+N-acetylgalactosamine-6-phosphate deacetylase (EC 3.5.1.25)	mscpx.1484
+Two-component sensor kinase SA14-24	mscpx.1056
+Two-component response regulator SA14-24	mscpx.1056
+LSU ribosomal protein L9p	mscpx.519
+Replicative DNA helicase (EC 3.6.1.-) [SA14-24]	mscpx.584
+Porphobilinogen synthase (EC 4.2.1.24)	mscpx.733
+Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase (EC 3.6.1.40)	mscpx.883
+Manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)	mscpx.1834
+1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	mscpx.16
+Inorganic pyrophosphatase (EC 3.6.1.1)	mscpx.1835
+Adenylylsulfate kinase (EC 2.7.1.25)	mscpx.1592
+Xylose isomerase (EC 5.3.1.5)	mscpx.1157
+novel N-acetylglucosamine kinase of eukaryotic type (EC 2.7.1.59)	mscpx.609
+Mannose-6-phosphate isomerase (EC 5.3.1.8)	mscpx.748
+Periplasmic beta-glucosidase (EC 3.2.1.21)	mscpx.726
+6-phospho-beta-glucosidase ascB (EC 3.2.1.86)	mscpx.340
+Beta-glucosidase (EC 3.2.1.21)	mscpx.725
+6-phospho-beta-glucosidase (EC 3.2.1.86)	mscpx.341
+UDP-N-acetylglucosamine 4-epimerase (EC 5.1.3.7)	mscpx.787
+Arabinose 5-phosphate isomerase (EC 5.3.1.13)	mscpx.980
+Lipid A biosynthesis (KDO) 2-(lauroyl)-lipid IVA acyltransferase (EC 2.3.1.-)	mscpx.1373
+Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.-)	mscpx.678
+3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)	mscpx.836
+3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)	mscpx.468
+Lipid-A-disaccharide synthase (EC 2.4.1.182)	mscpx.546
+UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)	mscpx.1539
+UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)	mscpx.1869
+Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)	mscpx.72
+2-ketoglutaric semialdehyde dehydrogenase (EC 1.2.1.26)	mscpx.1113
+L-2-keto-3-deoxyarabonate dehydratase (EC 4.2.1.43)	mscpx.1561
+L-arabonate dehydratase (EC 4.2.1.25)	mscpx.1156
+L-arabinolactonase (EC 3.1.1.15)	mscpx.397
+L-arabinose 1-dehydrogenase (EC 1.1.1.46)	mscpx.1881
+Alpha-N-arabinofuranosidase 2 (EC 3.2.1.55)	mscpx.1292
+Alpha-N-arabinofuranosidase (EC 3.2.1.55)	mscpx.1291
+L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	mscpx.918
+Ribulokinase (EC 2.7.1.16)	mscpx.282
+L-arabinose isomerase (EC 5.3.1.4)	mscpx.551
+Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	mscpx.849
+ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components	mscpx.581
+FMN reductase (EC 1.5.1.29)	mscpx.1224
+Alkanesulfonate monooxygenase (EC 1.14.14.5)	mscpx.110
+Cytosol aminopeptidase PepA (EC 3.4.11.1)	mscpx.46
+Purine nucleoside phosphorylase (EC 2.4.2.1)	mscpx.287
+Aminoacyl-histidine dipeptidase (Peptidase D) (EC 3.4.13.3)	mscpx.49
+8-amino-7-oxononanoate synthase (EC 2.3.1.47)	mscpx.1337
+N-Ribosylnicotinamide phosphorylase (EC 2.4.2.1)	mscpx.1611
+NMN phosphatase (EC 3.1.3.5)	mscpx.1015
+Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)	mscpx.121
+ADP-ribose pyrophosphatase (EC 3.6.1.13)	mscpx.1151
+Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)	mscpx.967
+Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	mscpx.1530
+NAD kinase (EC 2.7.1.23)	mscpx.366
+Nicotinamidase (EC 3.5.1.19)	mscpx.637
+NAD synthetase (EC 6.3.1.5)	mscpx.899
+Glutamine amidotransferase chain of NAD synthetase	mscpx.1891
+Nicotinamide-nucleotide adenylyltransferase, NadM family (EC 2.7.7.1)	mscpx.1342
+Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1)	mscpx.1343
+Nicotinamide-nucleotide adenylyltransferase (EC 2.7.7.1)	mscpx.1344
+Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	mscpx.604
+Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	mscpx.1733
+Kynureninase (EC 3.7.1.3)	mscpx.1720
+L-Aspartate dehydrogenase (EC 1.4.1.21)	mscpx.550
+Kynurenine 3-monooxygenase (EC 1.14.13.9)	mscpx.420
+Kynurenine formamidase, bacterial (EC 3.5.1.9)	mscpx.813
+Kynurenine formamidase (EC 3.5.1.9)	mscpx.814
+Tryptophan 2,3-dioxygenase (EC 1.13.11.11)	mscpx.1898
+Indoleamine 2,3-dioxygenase (EC 1.13.11.52)	mscpx.1899
+Proline dehydrogenase (EC 1.5.99.8) (Proline oxidase)	mscpx.592
+Ketoglutarate semialdehyde dehydrogenase (EC 1.2.1.26)	mscpx.1114
+1-pyrroline-4-hydroxy-2-carboxylate deaminase (EC 3.5.4.22)	mscpx.778
+4-hydroxyproline epimerase (EC 5.1.1.8)	mscpx.1559
+D-amino-acid oxidase (EC 1.4.3.3)	mscpx.654
+Alanine dehydrogenase (EC 1.4.1.1)	mscpx.1316
+DNA polymerase III alpha subunit (EC 2.7.7.7)	mscpx.584
+Minor teichoic acid biosynthesis protein GgaA	mscpx.1289
+Minor teichoic acid biosynthesis protein GgaB	mscpx.1288
+N-acetylmannosaminyltransferase (EC 2.4.1.187)	mscpx.183
+Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)	mscpx.497
+CDP-glycerol: N-acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenyl glycerophosphotransferase	mscpx.806
+Poly(glycerol-phosphate) alpha-glucosyltransferase (EC 2.4.1.52)	mscpx.131
+Poly(glycerophosphate chain) D-alanine transfer protein DltD	mscpx.889
+Poly(glycerophosphate chain) D-alanine transfer protein DltD	mscpx.36
+D-alanine--poly(phosphoribitol) ligase subunit 1 (EC 6.1.1.13)	mscpx.889
+D-alanyl transfer protein DltB	mscpx.889
+CDP-glycerol:poly(glycerophosphate) glycerophosphotransferase (EC 2.7.8.12)	mscpx.806
+CDP-glycerol:poly(glycerophosphate) glycerophosphotransferase (EC 2.7.8.12)	mscpx.122
+D-alanine--poly(phosphoribitol) ligase subunit 2 (EC 6.1.1.13)	mscpx.889
+diglucosyldiacylglycerol synthase (LTA membrane anchor synthesis)	mscpx.202
+UDP-glucose 4-epimerase (EC 5.1.3.2)	mscpx.788
+Teichoic acid translocation permease protein TagG	mscpx.1102
+Glycerol-3-phosphate cytidylyltransferase (EC 2.7.7.39)	mscpx.1249
+Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)	mscpx.1102
+dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)	mscpx.1868
+dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	mscpx.568
+dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)	mscpx.1677
+Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	mscpx.44
+Cobalt-precorrin-2 C20-methyltransferase (EC 2.1.1.130)	mscpx.482
+Tagatose 1,6-bisphosphate aldolase (EC 4.1.2.40)	mscpx.1879
+Gluconokinase (EC 2.7.1.12)	mscpx.1718
+Mannonate dehydratase (EC 4.2.1.8)	mscpx.572
+D-mannonate oxidoreductase (EC 1.1.1.57)	mscpx.721
+Uronate isomerase (EC 5.3.1.12)	mscpx.364
+6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	mscpx.1836
+Glucokinase (EC 2.7.1.2)	mscpx.907
+2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase (EC 1.14.13.-)	mscpx.245
+Ubiquinone biosynthesis monooxgenase COQ6 (EC 1.14.13.-)	mscpx.591
+2-octaprenyl-6-methoxyphenol hydroxylase (EC 1.14.13.-)	mscpx.590
+3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64)	mscpx.620
+Ubiquinone biosynthesis monooxygenase UbiB	mscpx.1550
+3-polyprenyl-4-hydroxybenzoate carboxy-lyase UbiX (EC 4.1.1.-)	mscpx.1432
+3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.-)	mscpx.1430
+Para-hydroxybenzoate--polyprenyltransferase, mitochondrial precursor (EC 2.5.1.-)	mscpx.1816
+4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)	mscpx.1817
+Chorismate--pyruvate lyase (EC 4.1.3.40)	mscpx.1097
+Transcription termination protein NusA	mscpx.1056
+Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)	mscpx.1517
+L-sorbose 1-phosphate reductase (EC 1.1.1.-)	mscpx.455
+Aerobic cobaltochelatase CobT subunit (EC 6.6.1.2)	mscpx.938
+Aerobic cobaltochelatase CobS subunit (EC 6.6.1.2)	mscpx.937
+tRNA pseudouridine 55 synthase (EC 4.2.1.70)	mscpx.986
+Mannitol-1-phosphate 5-dehydrogenase (EC 1.1.1.17)	mscpx.1165
+SSU ribosomal protein S4p (S9e)	mscpx.519
+Acyl carrier protein phosphodiesterase (EC 3.1.4.14)	mscpx.403
+Holo-[acyl-carrier protein] synthase, alternative (EC 2.7.8.7)	mscpx.875
+Enoyl-[acyl-carrier-protein] reductase [NADPH] (EC 1.3.1.10)	mscpx.89
+3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.41)	mscpx.244
+Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	mscpx.874
+Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)	mscpx.1052
+Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)	mscpx.1052
+Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)	mscpx.1771
+Biotin carboxyl carrier protein of acetyl-CoA carboxylase	mscpx.1771
+LL-diaminopimelate aminotransferase (EC 2.6.1.83), predicted alternative	mscpx.808
+L,L-diaminopimelate aminotransferase (EC 2.6.1.83)	mscpx.807
+N-succinyl-L,L-diaminopimelate aminotransferase alternative (EC 2.6.1.17)	mscpx.1772
+Diaminopimelate epimerase alternative form predicted for S.aureus (EC 5.1.1.7)	mscpx.593
+Meso-diaminopimelate D-dehydrogenase (EC 1.4.1.16)	mscpx.496
+N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)	mscpx.1356
+N-acetyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.-)	mscpx.1769
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (EC 2.3.1.89)	mscpx.1521
+N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)	mscpx.713
+N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17)	mscpx.1773
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)	mscpx.1663
+Dihydrodipicolinate synthase (EC 4.2.1.52)	mscpx.1480
+Aspartokinase (EC 2.7.2.4)	mscpx.1572
+Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	mscpx.1717
+Choline-sulfatase (EC 3.1.6.6)	mscpx.1768
+Aldehyde dehydrogenase A (EC 1.2.1.22)	mscpx.401
+Glycolaldehyde dehydrogenase (EC 1.2.1.21)	mscpx.148
+Glyoxylate reductase (EC 1.1.1.26)	mscpx.304
+N-acetylmuramoyl-L-alanine amidase	mscpx.319
+Heme-regulated cyclic AMP phosphodiesterase (EC 3.1.4.-)	mscpx.927
+Putrescine aminotransferase (EC 2.6.1.82)	mscpx.1198
+Histidine ABC transporter, ATP-binding protein HisP (TC 3.A.1.3.1)	mscpx.443
+Histidine ABC transporter, permease protein HisQ (TC 3.A.1.3.1)	mscpx.442
+Histidine ABC transporter, permease protein HisM (TC 3.A.1.3.1)	mscpx.444
+Histidine ABC transporter, histidine-binding periplasmic protein precursor HisJ (TC 3.A.1.3.1)	mscpx.441
+Arginine ABC transporter, periplasmic arginine-binding protein ArtJ	mscpx.1552
+Arginine ABC transporter, ATP-binding protein ArtP	mscpx.1553
+Arginine ABC transporter, permease protein ArtQ	mscpx.1551
+Arginine ABC transporter, permease protein ArtM	mscpx.1554
+Ornithine cyclodeaminase (EC 4.3.1.12)	mscpx.1047
+Carbamate kinase (EC 2.7.2.2)	mscpx.1830
+Ornithine carbamoyltransferase (EC 2.1.3.3)	mscpx.1748
+Arginine deiminase (EC 3.5.3.6)	mscpx.841
+N-carbamoylputrescine amidase (3.5.1.53)	mscpx.701
+Agmatine deiminase (EC 3.5.3.12)	mscpx.1725
+Ornithine decarboxylase (EC 4.1.1.17)	mscpx.689
+Agmatinase (EC 3.5.3.11)	mscpx.1886
+Arginine decarboxylase (EC 4.1.1.19)	mscpx.1189
+Arginine decarboxylase (EC 4.1.1.19)	mscpx.200
+Arginine decarboxylase, catabolic (EC 4.1.1.19)	mscpx.198
+Arginine permease RocE	mscpx.854
+Biosynthetic arginine decarboxylase (EC 4.1.1.19)	mscpx.199
+Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12)	mscpx.185
+Ornithine aminotransferase (EC 2.6.1.13)	mscpx.1290
+Succinylglutamate desuccinylase (EC 3.5.1.96)	mscpx.817
+Succinylglutamic semialdehyde dehydrogenase (EC 1.2.1.71)	mscpx.70
+Succinylornithine transaminase (EC 2.6.1.81)	mscpx.238
+Succinylarginine dihydrolase (EC 3.5.3.23)	mscpx.999
+Arginine N-succinyltransferase (EC 2.3.1.109)	mscpx.661
+5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	mscpx.1131
+Shikimate kinase II (EC 2.7.1.71)	mscpx.1438
+Shikimate 5-dehydrogenase I gamma (EC 1.1.1.25)	mscpx.1535
+Shikimate/quinate 5-dehydrogenase I beta (EC 1.1.1.282)	mscpx.1533
+3-dehydroquinate dehydratase I (EC 4.2.1.10)	mscpx.697
+3-dehydroquinate dehydratase II (EC 4.2.1.10)	mscpx.698
+3,7-dideoxy-D-threo-hepto-2, 6-diulosonate synthase (EC 4.2.3.-)	mscpx.114
+2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)	mscpx.357
+2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)	mscpx.357
+2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)	mscpx.357
+Ribose 5-phosphate isomerase B (EC 5.3.1.6)	mscpx.1576
+Putative ribose uptake protein RbsU, GRP transporter family (TC 2.A.7.5)	mscpx.824
+Alkaline phosphatase (EC 3.1.3.1)	mscpx.470
+Trehalose phosphorylase (EC 2.4.1.64)	mscpx.1613
+Trehalose synthase (EC 5.4.99.16)	mscpx.105
+Trehalose-6-phosphate phosphatase (EC 3.1.3.12)	mscpx.1612
+Alpha,alpha-trehalose-phosphate synthase [UDP-forming] (EC 2.4.1.15)	mscpx.433
+Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6)	mscpx.1902
+Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6)	mscpx.519
+Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6)	mscpx.1902
+Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6)	mscpx.519
+Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6)	mscpx.1902
+Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6)	mscpx.519
+Superoxide dismutase [Cu-Zn] precursor (EC 1.15.1.1)	mscpx.374
+Superoxide dismutase [Fe] (EC 1.15.1.1)	mscpx.373
+Beta-galactosidase large subunit (EC 3.2.1.23)	mscpx.101
+Beta-galactosidase small subunit (EC 3.2.1.23)	mscpx.103
+Alpha-galactosidase (EC 3.2.1.22)	mscpx.1226
+Beta-galactosidase (EC 3.2.1.23)	mscpx.102
+Lipoate-protein ligase A	mscpx.152
+NADH peroxidase (EC 1.11.1.1)	mscpx.1318
+Alpha-glycerophosphate oxidase (EC 1.1.3.21)	mscpx.1647
+Glycerol dehydrogenase (EC 1.1.1.6)	mscpx.380
+Thiosulfate sulfurtransferase GlpE (EC 2.8.1.1)	mscpx.179
+Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	mscpx.870
+Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)	mscpx.705
+Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)	mscpx.1901
+Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)	mscpx.707
+Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)	mscpx.1901
+Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)	mscpx.706
+Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)	mscpx.914
+Glycerol kinase (EC 2.7.1.30)	mscpx.1227
+Glycerophosphoryl diester phosphodiesterase, periplasmic (EC 3.1.4.46)	mscpx.347
+Adenylate cyclase	mscpx.1563
+DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)	mscpx.535
+Glutamine-dependent 2-keto-4-methylthiobutyrate transaminase	mscpx.1603
+1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase (EC 1.13.11.54)	mscpx.1099
+2,3-diketo-5-methylthiopentyl-1-phosphate enolase-phosphatase (EC 3.1.3.77)	mscpx.566
+2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase	mscpx.840
+2,3-diketo-5-methylthiopentyl-1-phosphate enolase	mscpx.565
+Methylthioribulose-1-phosphate dehydratase (EC 4.2.1.109)	mscpx.1040
+5'-methylthioadenosine phosphorylase (EC 2.4.2.28)	mscpx.638
+Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)	mscpx.1041
+5-methylthioribose kinase (EC 2.7.1.100)	mscpx.888
+5'-methylthioadenosine nucleosidase (EC 3.2.2.16)	mscpx.311
+3-phenylpropionate dioxygenase, alpha subunit (EC 1.14.12.19)	mscpx.1023
+3-phenylpropionate dioxygenase, beta subunit (EC 1.14.12.19)	mscpx.1024
+2,3-dihydroxy-2,3-dihydro-phenylpropionate dehydrogenase (EC 1.3.1.-)	mscpx.651
+3-phenylpropionate dioxygenase ferredoxin--NAD(+) reductase component (EC 1.18.1.3)	mscpx.1410
+Probable 3-phenylpropionic acid transporter	mscpx.1259
+Flavohemoprotein (Hemoglobin-like protein) (Flavohemoglobin) (Nitric oxide dioxygenase) (EC 1.14.12.17)	mscpx.1209
+Guanylate kinase (EC 2.7.4.8)	mscpx.869
+Muconate cycloisomerase (EC 5.5.1.1)	mscpx.946
+Catechol 1,2-dioxygenase (EC 1.13.11.1)	mscpx.1420
+1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate dehydrogenase (EC 1.3.1.25)	mscpx.779
+Tryptophan synthase beta chain (EC 4.2.1.20)	mscpx.547
+Tryptophan synthase alpha chain (EC 4.2.1.20)	mscpx.547
+Indole-3-glycerol phosphate synthase (EC 4.1.1.48)	mscpx.652
+Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	mscpx.1472
+Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	mscpx.1757
+Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	mscpx.1527
+Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	mscpx.924
+Anthranilate synthase, aminase component (EC 4.1.3.27)	mscpx.924
+5-carboxymethyl-2-oxo-hex-3- ene-1,7-dioate decarboxylase (EC 4.1.1.68)	mscpx.1371
+2-hydroxyhepta-2,4-diene-1,7-dioate isomerase (EC 5.3.3.-)	mscpx.1360
+3,4-dihydroxyphenylacetate 2,3-dioxygenase (EC 1.13.11.15)	mscpx.773
+5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase (EC 1.2.1.60)	mscpx.633
+5-carboxymethyl-2-hydroxymuconate delta-isomerase (EC 5.3.3.10)	mscpx.1734
+2-oxo-hepta-3-ene-1,7-dioic acid hydratase (EC 4.2.-.-)	mscpx.982
+2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase (EC 4.1.2.-)	mscpx.1055
+4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.13.3)	mscpx.857
+Thioredoxin reductase (EC 1.8.1.9)	mscpx.1676
+Acetoacetyl-CoA synthetase [leucine] (EC 6.2.1.16)	mscpx.499
+Acetoacetyl-CoA synthetase [leucine] (EC 6.2.1.16)	mscpx.913
+Biotin carboxylase of methylcrotonyl-CoA carboxylase (EC 6.3.4.14)	mscpx.1578
+Lysophospholipase L2 (EC 3.1.1.5)	mscpx.35
+Menaquinone biosynthesis related protein, putative DHNA-CoA thioesterase	mscpx.1243
+Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24)	mscpx.1715
+3-Oxoadipate enol-lactonase (EC 3.1.1.24)	mscpx.1714
+Propionate--CoA ligase (EC 6.2.1.17)	mscpx.847
+Propionate--CoA ligase (EC 6.2.1.17)	mscpx.657
+2-methylcitrate synthase (EC 2.3.3.5)	mscpx.1706
+Methylisocitrate lyase (EC 4.1.3.30)	mscpx.1428
+2-methylisocitrate dehydratase (EC 4.2.1.99)	mscpx.90
+2-methylisocitrate dehydratase (EC 4.2.1.99)	mscpx.1145
+2-methylisocitrate dehydratase (EC 4.2.1.99)	mscpx.717
+2-methylcitrate dehydratase FeS dependent (EC 4.2.1.79)	mscpx.736
+2-methylcitrate dehydratase (EC 4.2.1.79)	mscpx.735
+NADH-quinone oxidoreductase subunit 15 (EC 1.6.99.5)	mscpx.307
+NADH-quinone oxidoreductase chain F 2 (EC 1.6.99.5)	mscpx.307
+NAD(P)H-quinone oxidoreductase chain 5 (EC 1.6.5.2)	mscpx.309
+NAD(P)H-quinone oxidoreductase chain K (EC 1.6.5.2)	mscpx.309
+NAD(P)H-quinone oxidoreductase chain J (EC 1.6.5.2)	mscpx.309
+NAD(P)H-quinone oxidoreductase chain H (EC 1.6.5.2)	mscpx.309
+NAD(P)H-quinone oxidoreductase subunit 3 (EC 1.6.5.2)	mscpx.309
+NAD(P)H-quinone oxidoreductase chain I (EC 1.6.5.2)	mscpx.309
+NADH dehydrogenase, subunit 5	mscpx.1167
+Na(+) H(+) antiporter subunit E (TC 2.A.63.1.2)	mscpx.1652
+Na(+) H(+) antiporter subunit D (TC 2.A.63.1.2)	mscpx.1652
+Beta-hexosaminidase (EC 3.2.1.52)	mscpx.1112
+Homoserine kinase (EC 2.7.1.39)	mscpx.1242
+3-hydroxyanthranilate 3,4-dioxygenase (EC 1.13.11.6)	mscpx.669
+2-isopropylmalate synthase (EC 2.3.3.13)	mscpx.182
+3-isopropylmalate dehydrogenase (EC 1.1.1.85)	mscpx.711
+Valine--pyruvate aminotransferase (EC 2.6.1.66)	mscpx.1273
+3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)	mscpx.1169
+3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)	mscpx.1738
+Threonine dehydratase biosynthetic (EC 4.3.1.19)	mscpx.322
+Threonine dehydratase (EC 4.3.1.19)	mscpx.323
+ATP-dependent DNA helicase UvrD/PcrA	mscpx.584
+F420-dependent methylenetetrahydromethanopterin dehydrogenase (EC 1.5.99.9)	mscpx.1622
+Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)	mscpx.939
+Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)	mscpx.290
+Formyltetrahydrofolate deformylase (EC 3.5.1.10)	mscpx.1619
+N(5),N(10)-methenyltetrahydromethanopterin cyclohydrolase (EC 3.5.4.27)	mscpx.1620
+Methylene tetrahydromethanopterin dehydrogenase (EC 1.5.99.9)	mscpx.1621
+Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	mscpx.1266
+Uridine kinase (EC 2.7.1.48) [C1]	mscpx.7
+Phosphopentomutase (EC 5.4.2.7)	mscpx.598
+1-phosphofructokinase (EC 2.7.1.56)	mscpx.223
+L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)	mscpx.560
+Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)	mscpx.1416
+Cystathionine gamma-lyase (EC 4.4.1.1)	mscpx.1235
+S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)	mscpx.311
+Adenosylhomocysteinase (EC 3.3.1.1)	mscpx.1565
+Cystathionine beta-synthase (EC 4.2.1.22)	mscpx.630
+S-adenosylmethionine synthetase (EC 2.5.1.6)	mscpx.1452
+L-lactate dehydrogenase (EC 1.1.1.27)	mscpx.878
+D-lactate dehydrogenase (EC 1.1.1.28)	mscpx.891
+DNA polymerase III subunits gamma and tau (EC 2.7.7.7)	mscpx.584
+Adenine phosphoribosyltransferase (EC 2.4.2.7)	mscpx.606
+2-heptaprenyl-1,4-naphthoquinone methyltransferase (EC 2.1.1.163)	mscpx.514
+1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	mscpx.486
+O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)	mscpx.902
+Naphthoate synthase (EC 4.1.3.36)	mscpx.879
+O-succinylbenzoate synthase (EC 4.2.1.113)	mscpx.1425
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)	mscpx.781
+Guanine deaminase (EC 3.5.4.3)	mscpx.1633
+Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4)	mscpx.979
+Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4)	mscpx.1160
+Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4)	mscpx.979
+Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4)	mscpx.1161
+Xanthine dehydrogenase, molybdenum binding subunit (EC 1.17.1.4)	mscpx.979
+Xanthine dehydrogenase, molybdenum binding subunit (EC 1.17.1.4)	mscpx.1159
+Sucrose-6-phosphate hydrolase (EC 3.2.1.B3)	mscpx.88
+Nitrogenase (iron-iron) beta chain (EC 1.18.6.1)	mscpx.1087
+Nitrogenase (iron-iron) delta chain (EC 1.18.6.1)	mscpx.1081
+Nitrogenase (iron-iron) alpha chain (EC 1.18.6.1)	mscpx.1086
+Nitrogenase (vanadium-iron) beta chain (EC 1.18.6.1)	mscpx.1088
+Nitrogenase (vanadium-iron) delta chain (EC 1.18.6.1)	mscpx.1078
+Nitrogenase (vanadium-iron) alpha chain (EC 1.18.6.1)	mscpx.1080
+Nitrogenase (molybdenum-iron) beta chain (EC 1.18.6.1)	mscpx.1084
+Nitrogenase (molybdenum-iron) alpha chain (EC 1.18.6.1)	mscpx.1083
+3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)	mscpx.289
+3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.60)	mscpx.93
+Undecaprenyl-diphosphatase (EC 3.6.1.27)	mscpx.653
+DNA topoisomerase I (EC 5.99.1.2)	mscpx.584
+Sodium/glutamate symport protein	mscpx.156
+Proton/aspartate symport protein	mscpx.153
+Proton/glutamate symport protein	mscpx.660
+Dihydropteridine reductase (EC 1.5.1.34)	mscpx.1250
+Manganese superoxide dismutase (EC 1.15.1.1)	mscpx.372
+2-ketobutyrate formate-lyase (EC 2.3.1.-)	mscpx.1401
+Propionate kinase (EC 2.7.2.15)	mscpx.1637
+Threonine dehydratase, catabolic (EC 4.3.1.19)	mscpx.321
+Dehydrosqualene synthase (EC 2.5.1.-)	mscpx.650
+Geranylgeranyl diphosphate synthase (EC 2.5.1.29)	mscpx.1582
+Geranylgeranyl diphosphate synthase (EC 2.5.1.29)	mscpx.556
+Phytoene synthase (EC 2.5.1.32)	mscpx.208
+L-threonine 3-dehydrogenase (EC 1.1.1.103)	mscpx.1828
+2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	mscpx.1560
+Low-specificity L-threonine aldolase (EC 4.1.2.5)	mscpx.4
+Substrate-specific component TrpP of tryptophan ECF transporter	mscpx.1624
+Substrate-specific component RibU of riboflavin ECF transporter	mscpx.1889
+Duplicated ATPase component YkoD of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine	mscpx.1778
+Substrate-specific component BioY of biotin ECF transporter	mscpx.1269
+Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)	mscpx.558
+Heptaprenyl diphosphate synthase component II (EC 2.5.1.30)	mscpx.1237
+Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)	mscpx.1237
+Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)	mscpx.559
+Undecaprenyl diphosphate synthase (EC 2.5.1.31)	mscpx.708
+(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)	mscpx.1582
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)	mscpx.873
+1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1)	mscpx.1330
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	mscpx.95
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)	mscpx.1876
+1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	mscpx.1001
+1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	mscpx.187
+Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	mscpx.1172
+Isopentenyl-diphosphate delta-isomerase (EC 5.3.3.2)	mscpx.1171
+Diphosphomevalonate decarboxylase (EC 4.1.1.33)	mscpx.406
+Phosphomevalonate kinase (EC 2.7.4.2)	mscpx.1671
+Mevalonate kinase (EC 2.7.1.36)	mscpx.842
+3-hydroxy-3-methylglutaryl-coenzyme A reductase (EC 1.1.1.34)	mscpx.1479
+Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)	mscpx.1566
+DNA ligase (EC 6.5.1.2)	mscpx.1346
+DNA ligase (EC 6.5.1.2)	mscpx.584
+ATP-dependent DNA ligase (EC 6.5.1.1)	mscpx.584
+Acetyl-CoA:acetoacetyl-CoA transferase, alpha subunit (EC 2.8.3.8)	mscpx.1903
+Acetyl-CoA:acetoacetyl-CoA transferase, alpha subunit (EC 2.8.3.8)	mscpx.100
+Acetyl-CoA:acetoacetyl-CoA transferase, beta subunit (EC 2.8.3.8)	mscpx.1903
+Acetyl-CoA:acetoacetyl-CoA transferase, beta subunit (EC 2.8.3.8)	mscpx.100
+Butyrate kinase (EC 2.7.2.7)	mscpx.1760
+phosphotransbutyrylase (EC 2.3.1.19)	mscpx.1538
+Butyryl-CoA dehydrogenase (EC 1.3.99.2)	mscpx.42
+Enoyl-CoA hydratase (EC 4.2.1.17)	mscpx.206
+3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)	mscpx.104
+3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	mscpx.1599
+3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	mscpx.382
+3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)	mscpx.1574
+3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)	mscpx.1523
+Acetoacetyl-CoA reductase (EC 1.1.1.36)	mscpx.1000
+Acetyl-CoA acetyltransferase (EC 2.3.1.9)	mscpx.666
+Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)	mscpx.1901
+Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)	mscpx.703
+Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)	mscpx.914
+Hydroxymethylpyrimidine phosphate synthase ThiC	mscpx.1406
+Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)	mscpx.1642
+3-phenylpropionate dioxygenase ferredoxin subunit	mscpx.1410
+L-serine dehydratase (EC 4.3.1.17)	mscpx.1544
+3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)	mscpx.1170
+3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)	mscpx.1738
+Dihydroxy-acid dehydratase (EC 4.2.1.9)	mscpx.562
+Fumarate hydratase class I, anaerobic (EC 4.2.1.2)	mscpx.1350
+Thymidylate kinase (EC 2.7.4.9)	mscpx.1129
+Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)	mscpx.246
+Methylmalonate-semialdehyde dehydrogenase (EC 1.2.1.27)	mscpx.297
+3-ketoacyl-CoA thiolase [isoleucine degradation] (EC 2.3.1.16)	mscpx.453
+3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31)	mscpx.1598
+3-hydroxyisobutyryl-CoA hydrolase (EC 3.1.2.4)	mscpx.1365
+Enoyl-CoA hydratase [isoleucine degradation] (EC 4.2.1.17)	mscpx.1687
+Enoyl-CoA hydratase [isoleucine degradation] (EC 4.2.1.17)	mscpx.382
+Enoyl-CoA hydratase [valine degradation] (EC 4.2.1.17)	mscpx.205
+Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)	mscpx.872
+Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12)	mscpx.963
+Methylglutaconyl-CoA hydratase (EC 4.2.1.18)	mscpx.1221
+Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)	mscpx.1578
+Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)	mscpx.1577
+Isovaleryl-CoA dehydrogenase (EC 1.3.99.10)	mscpx.464
+Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)	mscpx.892
+Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4)	mscpx.466
+Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)	mscpx.466
+Leucine dehydrogenase (EC 1.4.1.9)	mscpx.252
+Branched-chain amino acid aminotransferase (EC 2.6.1.42)	mscpx.388
+Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)	mscpx.149
+Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	mscpx.117
+Cobalt-precorrin-6x reductase (EC 1.3.1.54)	mscpx.96
+Single-stranded DNA-binding protein	mscpx.584
+Acetylglutamate kinase (EC 2.7.2.8)	mscpx.1782
+Helicase PriA essential for oriC/DnaA-independent DNA replication	mscpx.584
+4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	mscpx.692
+Glutamyl-tRNA reductase (EC 1.2.1.70)	mscpx.1449
+2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)	mscpx.239
+Tyrosyl-tRNA synthetase (EC 6.1.1.1)	mscpx.519
+Valyl-tRNA synthetase (EC 6.1.1.9)	mscpx.519
+Tryptophanyl-tRNA synthetase (EC 6.1.1.2)	mscpx.519
+Threonyl-tRNA synthetase (EC 6.1.1.3)	mscpx.694
+Threonyl-tRNA synthetase (EC 6.1.1.3)	mscpx.519
+Seryl-tRNA synthetase (EC 6.1.1.11)	mscpx.1229
+Seryl-tRNA synthetase (EC 6.1.1.11)	mscpx.519
+Arginyl-tRNA synthetase (EC 6.1.1.19)	mscpx.231
+Arginyl-tRNA synthetase (EC 6.1.1.19)	mscpx.519
+Prolyl-tRNA synthetase (EC 6.1.1.15)	mscpx.519
+Methionyl-tRNA synthetase (EC 6.1.1.10)	mscpx.1407
+Methionyl-tRNA synthetase (EC 6.1.1.10)	mscpx.519
+Asparaginyl-tRNA synthetase (EC 6.1.1.22)	mscpx.222
+Asparaginyl-tRNA synthetase (EC 6.1.1.22)	mscpx.519
+Leucyl-tRNA synthetase (EC 6.1.1.4)	mscpx.519
+Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)	mscpx.1896
+Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)	mscpx.519
+Isoleucyl-tRNA synthetase (EC 6.1.1.5)	mscpx.668
+Isoleucyl-tRNA synthetase (EC 6.1.1.5)	mscpx.519
+Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)	mscpx.519
+Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)	mscpx.519
+Glycyl-tRNA synthetase (EC 6.1.1.14)	mscpx.1006
+Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	mscpx.519
+Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)	mscpx.519
+Glutamyl-tRNA synthetase (EC 6.1.1.17)	mscpx.1454
+Glutamyl-tRNA synthetase (EC 6.1.1.17)	mscpx.519
+Aspartyl-tRNA synthetase (EC 6.1.1.12)	mscpx.1604
+Aspartyl-tRNA synthetase (EC 6.1.1.12)	mscpx.519
+Cysteinyl-tRNA synthetase (EC 6.1.1.16)	mscpx.789
+Cysteinyl-tRNA synthetase (EC 6.1.1.16)	mscpx.519
+N-acylglucosamine 2-epimerase (EC 5.1.3.8)	mscpx.1719
+N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23)	mscpx.33
+Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)	mscpx.33
+Phosphoglucosamine mutase (EC 5.4.2.10)	mscpx.471
+N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	mscpx.1397
+N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	mscpx.75
+N-acetylmannosamine kinase (EC 2.7.1.60)	mscpx.1601
+N-acetylneuraminate lyase (EC 4.1.3.3)	mscpx.1007
+N-Acetylneuraminate cytidylyltransferase (EC 2.7.7.43)	mscpx.1888
+N-acetylneuraminate synthase (EC 2.5.1.56)	mscpx.741
+UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)	mscpx.1107
+Ribosomal large subunit pseudouridine synthase B (EC 4.2.1.70)	mscpx.987
+Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.-)	mscpx.987
+Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	mscpx.987
+Ribosomal large subunit pseudouridine synthase C (EC 4.2.1.70)	mscpx.987
+Ribosomal small subunit pseudouridine synthase A (EC 4.2.1.70)	mscpx.987
+3-dehydroquinate synthase (EC 4.2.3.4)	mscpx.113
+Histidinol dehydrogenase (EC 1.1.1.23)	mscpx.1212
+Histidinol-phosphatase [alternative form] (EC 3.1.3.15)	mscpx.118
+Histidinol-phosphatase (EC 3.1.3.15)	mscpx.119
+Histidinol-phosphate aminotransferase (EC 2.6.1.9)	mscpx.580
+Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	mscpx.1327
+Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)	mscpx.1753
+Imidazole glycerol phosphate synthase cyclase subunit (EC 4.1.3.-)	mscpx.1753
+Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)	mscpx.389
+Adenylosuccinate synthetase (EC 6.3.4.4)	mscpx.1562
+Histidyl-tRNA synthetase (EC 6.1.1.21)	mscpx.519
+ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)	mscpx.1692
+ATP phosphoribosyltransferase catalytic subunit (EC 2.4.2.17)	mscpx.1692
+ATP phosphoribosyltransferase (EC 2.4.2.17)	mscpx.1691
+Allantoicase (EC 3.5.3.4)	mscpx.784
+Ureidoglycolate dehydrogenase (EC 1.1.1.154)	mscpx.812
+Allantoate amidohydrolase (EC 3.5.3.9)	mscpx.342
+Ureidoglycolate hydrolase (EC 3.5.3.19)	mscpx.338
+Lactaldehyde reductase (EC 1.1.1.77)	mscpx.1678
+L-rhamnose-proton symporter	mscpx.169
+Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization (EC 1.2.1.22)	mscpx.399
+Predicted lactaldehyde dehydrogenase (EC 1.2.1.22)	mscpx.400
+Predicted rhamnulose-1-phosphate aldolase (EC 4.1.2.19)	mscpx.400
+Rhamnulokinase (EC 2.7.1.5)	mscpx.588
+Rhamnulose-1-phosphate aldolase (EC 4.1.2.19)	mscpx.1873
+L-rhamnose isomerase (EC 5.3.1.14)	mscpx.1335
+Ribonuclease III (EC 3.1.26.3)	mscpx.1056
+Dihydropyrimidine dehydrogenase [NADP+] (EC 1.3.1.2)	mscpx.465
+Uridine kinase (EC 2.7.1.48)	mscpx.111
+Allophanate hydrolase (EC 3.5.1.54)	mscpx.1285
+Uracil phosphoribosyltransferase (EC 2.4.2.9)	mscpx.871
+6-phosphofructokinase (EC 2.7.1.11)	mscpx.495
+Maltoporin (maltose/maltodextrin high-affinity receptor, phage lambda receptor protein)	mscpx.894
+Uridylate kinase (EC 2.7.4.-)	mscpx.1607
+SSU ribosomal protein S2p (SAe)	mscpx.519
+Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)	mscpx.346
+Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	mscpx.675
+Diaminopimelate decarboxylase (EC 4.1.1.20)	mscpx.1353
+Diaminopimelate epimerase (EC 5.1.1.7)	mscpx.594
+Glutamate synthase [NADPH] large chain (EC 1.4.1.13)	mscpx.780
+NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	mscpx.965
+L-asparaginase (EC 3.5.1.1)	mscpx.1590
+Arginase (EC 3.5.3.1)	mscpx.1485
+Aliphatic amidase amiE (EC 3.5.1.4)	mscpx.730
+2-oxoglutarate/malate translocator-like protein	mscpx.320
+Magnesium citrate secondary transporter	mscpx.69
+PTS system, lactose-specific IIA component (EC 2.7.1.69)	mscpx.451
+ammonium transporter family protein	mscpx.920
+Glutamate ABC transporter, periplasmic glutamine-binding protein	mscpx.1822
+Lysine-specific permease	mscpx.438
+Transmembrane component YkoC of energizing module of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine	mscpx.1778
+quinol oxidase polypeptide II QoxA (EC:1.9.3.-)	mscpx.746
+quinol oxidase polypeptide I QoxB (EC:1.9.3.-)	mscpx.746
+quinol oxidase polypeptide III QoxC (EC:1.9.3.-)	mscpx.746
+quinol oxidase polypeptide IV QoxD (EC:1.9.3.-)	mscpx.746
+Na(+) H(+) antiporter subunit A (TC 2.A.63.1.3)	mscpx.1654
+Choline transporter, permease protein	mscpx.925
+Na(+) H(+) antiporter subunit G (TC 2.A.63.1.3)	mscpx.1650
+Na(+) H(+) antiporter subunit F (TC 2.A.63.1.3)	mscpx.1653
+Na(+) H(+) antiporter subunit E (TC 2.A.63.1.3)	mscpx.1662
+Na(+) H(+) antiporter subunit D (TC 2.A.63.1.3)	mscpx.1661
+Na(+) H(+) antiporter subunit C (TC 2.A.63.1.3)	mscpx.1658
+L-Proline/Glycine betaine transporter ProP	mscpx.410
+Na(+) H(+) antiporter subunit B (TC 2.A.63.1.3)	mscpx.1655
+Probable pyrimidine nucleoside transport protein associated with pseudouridine catabolism	mscpx.753
+formate/nitrite transporter family protein	mscpx.1279
+Multiple sugar ABC transporter, ATP-binding protein	mscpx.1110
+Na+/H+ antiporter NhaA type	mscpx.1657
+Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)	mscpx.745
+Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)	mscpx.268
+Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2)	mscpx.261
+Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2)	mscpx.745
+Sodium/glutamate symporter	mscpx.159
+Homolog of fucose/glucose/galactose permeases	mscpx.1205
+Anaerobic C4-dicarboxylate transporter DcuB	mscpx.153
+Anaerobic C4-dicarboxylate transporter DcuB	mscpx.334
+Ferrous iron transport protein B	mscpx.1234
+Arginine/ornithine antiporter ArcD	mscpx.1688
+Vitamin B12 ABC transporter, permease component BtuC	mscpx.1618
+Vitamin B12 ABC transporter, permease component BtuC	mscpx.189
+Adenosylcobinamide amidohydrolase (EC 3.5.1.90)	mscpx.39
+Vitamin B12 ABC transporter, ATPase component BtuD	mscpx.1618
+Vitamin B12 ABC transporter, ATPase component BtuD	mscpx.189
+Predicted molybdate-responsive regulator YvgK in bacilli	mscpx.1307
+Potassium uptake protein, integral membrane component, KtrB	mscpx.457
+Potassium uptake protein, integral membrane component, KtrA	mscpx.462
+Manganese ABC transporter, inner membrane permease protein SitD	mscpx.371
+Manganese ABC transporter, inner membrane permease protein SitC	mscpx.371
+Manganese ABC transporter, ATP-binding protein SitB	mscpx.371
+Manganese ABC transporter, periplasmic-binding protein SitA	mscpx.371
+sodium/alanine symporter family protein	mscpx.1270
+Sulfate permease, Pit-type	mscpx.1567
+Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5)	mscpx.1488
+Potassium uptake protein, integral membrane component, KtrD	mscpx.458
+Magnesium transporter	mscpx.98
+Probable low-affinity inorganic phosphate transporter	mscpx.1032
+Transporter, LysE family	mscpx.318
+Na+/H+ antiporter	mscpx.1660
+Na+/H+ antiporter	mscpx.1659
+Glucose/mannose:H+ symporter GlcP	mscpx.191
+Na+/H+ antiporter NhaC	mscpx.1660
+sodium/hydrogen exchanger family protein	mscpx.1651
+Heme ABC type transporter HtsABC, permease protein HtsC	mscpx.1557
+Heme ABC type transporter HtsABC, permease protein HtsC	mscpx.856
+Heme ABC type transporter HtsABC, permease protein HtsB	mscpx.1557
+Heme ABC type transporter HtsABC, permease protein HtsB	mscpx.856
+Heme ABC type transporter HtsABC, heme-binding protein	mscpx.856
+Heme ABC type transporter HtsABC, heme-binding protein	mscpx.1558
+PTS system, N-acetylglucosamine-specific IIB component (EC 2.7.1.69)	mscpx.1605
+calcium/proton exchanger	mscpx.1503
+Predicted rhamnose oligosaccharide ABC transport system, permease component	mscpx.1729
+Predicted rhamnose oligosaccharide ABC transport system, permease component 2	mscpx.1729
+Predicted rhamnose oligosaccharide ABC transport system, substrate-binding component	mscpx.1729
+Xanthine/uracil/thiamine/ascorbate permease family protein	mscpx.1164
+Major myo-inositol transporter IolT	mscpx.728
+Sodium/glutamine symporter glnT	mscpx.1326
+Sodium/proline symporter	mscpx.828
+Osmotically activated L-carnitine/choline ABC transporter, permease protein OpuCD	mscpx.506
+Osmotically activated L-carnitine/choline ABC transporter, substrate-binding protein OpuCC	mscpx.506
+Osmotically activated L-carnitine/choline ABC transporter, permease protein OpuCB	mscpx.506
+Osmotically activated L-carnitine/choline ABC transporter, ATP-binding protein OpuCA	mscpx.506
+Choline ABC transport system, ATP-binding protein OpuBA	mscpx.507
+Proton/sodium-glutamate symport protein	mscpx.157
+Multiple sugar ABC transporter, substrate-binding protein	mscpx.1109
+Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	mscpx.1109
+Multiple sugar ABC transporter, membrane-spanning permease protein MsmG	mscpx.1109
+Purine-cytosine permease	mscpx.1506
+Arsenical pump membrane protein	mscpx.257
+Chromate transport protein	mscpx.890
+Na(+) H(+) antiporter subunit C (TC 2.A.63.1.2)	mscpx.1652
+Na(+) H(+) antiporter subunit B (TC 2.A.63.1.2)	mscpx.1652
+Na(+) H(+) antiporter subunit A (TC 2.A.63.1.2)	mscpx.1652
+Na(+) H(+) antiporter subunit F (TC 2.A.63.1.2)	mscpx.1652
+Na(+) H(+) antiporter subunit G (TC 2.A.63.1.2)	mscpx.1652
+Citrate transporter	mscpx.1573
+PTS system, cellobiose-specific IIB component (EC 2.7.1.69)	mscpx.236
+Arsenic efflux pump protein	mscpx.258
+C4-dicarboxylate transport protein	mscpx.335
+Manganese transport protein MntH	mscpx.1277
+potassium uptake	mscpx.460
+Proline/sodium symporter PutP (TC 2.A.21.2.1)	mscpx.829
+Glycine betaine transporter OpuD	mscpx.283
+Cobalt-zinc-cadmium resistance protein CzcD	mscpx.233
+Branched-chain amino acid transport system carrier protein	mscpx.1074
+branched-chain amino acid transport	mscpx.1075
+Alpha-arabinosides ABC transport system, permease protein 2	mscpx.1123
+Alpha-arabinosides ABC transport system, permease protein 1	mscpx.1123
+Arabinose-proton symporter	mscpx.411
+Ethanolamine permease	mscpx.860
+Mg(2+) Citrate transporter (TC 2.A.11.1.1)	mscpx.643
+Sodium-dependent phosphate transporter	mscpx.1096
+Sulfate permease	mscpx.1568
+Glycine betaine ABC transport system, ATP-binding protein OpuAA (EC 3.6.3.32)	mscpx.647
+Glycine betaine ABC transport system, ATP-binding protein OpuAA (EC 3.6.3.32)	mscpx.1149
+PTS system, cellobiose-specific IIA component (EC 2.7.1.69)	mscpx.235
+catalyses ATP-dependent electrogenic Na+ extrusion without mechanistically coupled H+ or K+ uptake	mscpx.396
+gamma-aminobutyrate (GABA) permease	mscpx.1820
+Menaquinone-cytochrome C oxidoreductase, cytochrome C subunit	mscpx.329
+Ca(2+) Citrate symporter (TC 2.A.11.1.2)	mscpx.1013
+Minor myo-inositol transporter IolF	mscpx.729
+Xanthine permease	mscpx.659
+Magnesium and cobalt transport protein CorA	mscpx.99
+Uracil permease	mscpx.1667
+PTS system, beta-glucoside-specific IIA component (EC 2.7.1.69)	mscpx.742
+PTS system, beta-glucoside-specific IIC component (EC 2.7.1.69)	mscpx.742
+PTS system, beta-glucoside-specific IIB component (EC 2.7.1.69)	mscpx.742
+Gluconate permease, Bsu4004 homolog	mscpx.1063
+Formate/nitrite family of transporters	mscpx.1890
+Glycerol-3-phosphate transporter	mscpx.724
+AA3-600 quinol oxidase subunit IV	mscpx.1395
+AA3-600 quinol oxidase subunit IIII	mscpx.1395
+AA3-600 quinol oxidase subunit I	mscpx.1395
+AA3-600 quinol oxidase subunit II	mscpx.1395
+Ferrous iron transport peroxidase EfeB	mscpx.1529
+PTS system, cellobiose-specific IIC component (EC 2.7.1.69)	mscpx.235
+Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)	mscpx.107
+Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)	mscpx.1799
+Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)	mscpx.109
+Succinate dehydrogenase cytochrome b558 subunit	mscpx.744
+Succinate dehydrogenase cytochrome b558 subunit	mscpx.1799
+Succinate dehydrogenase cytochrome b558 subunit	mscpx.108
+Succinate dehydrogenase cytochrome b558 subunit	mscpx.273
+Cytochrome c oxidase, subunit IV (EC 1.9.3.1)	mscpx.1851
+Cytochrome c oxidase, subunit IV (EC 1.9.3.1)	mscpx.757
+PTS system, fructose-specific IID component (EC 2.7.1.69)	mscpx.674
+Cytochrome c oxidase polypeptide III (EC 1.9.3.1)	mscpx.1865
+Cytochrome c oxidase polypeptide III (EC 1.9.3.1)	mscpx.757
+Cytochrome c oxidase polypeptide I (EC 1.9.3.1)	mscpx.1853
+Cytochrome c oxidase polypeptide I (EC 1.9.3.1)	mscpx.757
+L-arabinose transport system permease protein (TC 3.A.1.2.2)	mscpx.1124
+Iron(III) dicitrate transport system, periplasmic iron-binding protein FecB (TC 3.A.1.14.1)	mscpx.134
+Iron(III) dicitrate transport system, periplasmic iron-binding protein FecB (TC 3.A.1.14.1)	mscpx.1228
+Iron(III) dicitrate transport system permease protein fecD (TC 3.A.1.14.1)	mscpx.136
+Iron(III) dicitrate transport system permease protein fecD (TC 3.A.1.14.1)	mscpx.1228
+Iron(III) dicitrate transport ATP-binding protein FecE (TC 3.A.1.14.1)	mscpx.137
+L-idonate, D-gluconate, 5-keto-D-gluconate transporter	mscpx.1061
+PTS system, trehalose-specific IIC component (EC 2.7.1.69)	mscpx.1721
+PTS system, trehalose-specific IIB component (EC 2.7.1.69)	mscpx.1721
+D-serine/D-alanine/glycine transporter	mscpx.414
+D-serine/D-alanine/glycine transporter	mscpx.1758
+C4-dicarboxylate transporter DcuA	mscpx.3
+C4-dicarboxylate transporter DcuB	mscpx.3
+Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)	mscpx.693
+Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	mscpx.897
+Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	mscpx.1489
+Maltose/maltodextrin ABC transporter, permease protein MalF	mscpx.1764
+Maltose/maltodextrin ABC transporter, permease protein MalF	mscpx.895
+Maltose/maltodextrin ABC transporter, permease protein MalF	mscpx.1489
+Maltose/maltodextrin ABC transporter, permease protein MalG	mscpx.1764
+Maltose/maltodextrin ABC transporter, permease protein MalG	mscpx.1489
+Maltose/maltodextrin ABC transporter, permease protein MalG	mscpx.896
+Outer membrane vitamin B12 receptor BtuB	mscpx.1618
+Glycerol uptake facilitator protein	mscpx.923
+2-keto-3-deoxygluconate permease (KDG permease)	mscpx.1522
+Potassium uptake protein TrkH	mscpx.459
+Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	mscpx.92
+Ribose ABC transport system, periplasmic ribose-binding protein RbsB (TC 3.A.1.2.1)	mscpx.92
+Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	mscpx.92
+Ribose ABC transport system, high affinity permease RbsD (TC 3.A.1.2.1)	mscpx.92
+ATP synthase protein I	mscpx.1175
+ATP synthase A chain (EC 3.6.3.14)	mscpx.1175
+ATP synthase C chain (EC 3.6.3.14)	mscpx.1175
+ATP synthase delta chain (EC 3.6.3.14)	mscpx.1175
+ATP synthase B chain (EC 3.6.3.14)	mscpx.1175
+ATP synthase alpha chain (EC 3.6.3.14)	mscpx.1175
+ATP synthase gamma chain (EC 3.6.3.14)	mscpx.1175
+ATP synthase beta chain (EC 3.6.3.14)	mscpx.1175
+ATP synthase epsilon chain (EC 3.6.3.14)	mscpx.1175
+Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)	mscpx.237
+Phosphate transport system permease protein PstC (TC 3.A.1.7.1)	mscpx.237
+Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	mscpx.237
+Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)	mscpx.237
+Low affinity tryptophan permease	mscpx.1626
+PTS system, mannitol-specific IIA component (EC 2.7.1.69)	mscpx.919
+L-lactate permease	mscpx.1579
+PTS system, mannitol-specific IIB component (EC 2.7.1.69)	mscpx.919
+PTS system, mannitol-specific IIC component (EC 2.7.1.69)	mscpx.919
+TRAP-type C4-dicarboxylate transport system, periplasmic component	mscpx.333
+D-xylose transport ATP-binding protein XylG	mscpx.1693
+Xylose ABC transporter, permease protein XylH	mscpx.1693
+Xylose ABC transporter, periplasmic xylose-binding protein XylF	mscpx.1693
+Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	mscpx.66
+Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)	mscpx.79
+High-affinity leucine-specific transport system, periplasmic binding protein livK (TC 3.A.1.4.1)	mscpx.1158
+High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)	mscpx.82
+Branched-chain amino acid transport system permease protein livM (TC 3.A.1.4.1)	mscpx.80
+Branched-chain amino acid transport ATP-binding protein livG (TC 3.A.1.4.1)	mscpx.81
+Branched-chain amino acid transport ATP-binding protein livF (TC 3.A.1.4.1)	mscpx.78
+Glycerol-3-phosphate ABC transporter, periplasmic glycerol-3-phosphate-binding protein (TC 3.A.1.1.3)	mscpx.430
+Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3)	mscpx.432
+Glycerol-3-phosphate ABC transporter, permease protein UgpE (TC 3.A.1.1.3)	mscpx.431
+Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)	mscpx.429
+High-affinity gluconate transporter GntT	mscpx.1062
+Tryptophan-specific transport protein	mscpx.1623
+D-galactarate permease	mscpx.13
+L-threonine transporter, anaerobically inducible	mscpx.1477
+Hexuronate transporter	mscpx.1322
+Nucleoside permease nupG	mscpx.794
+Nucleoside permease nupG	mscpx.219
+Low-affinity inorganic phosphate transporter	mscpx.1033
+Serine transporter	mscpx.1207
+D-glucarate permease	mscpx.12
+PTS system, glucitol/sorbitol-specific IIA component (EC 2.7.1.69)	mscpx.1057
+PTS system, glucitol/sorbitol-specific IIB component and second of two IIC components (EC 2.7.1.69)	mscpx.1057
+PTS system, glucitol/sorbitol-specific IIC component (EC 2.7.1.69)	mscpx.1057
+PTS system, sucrose-specific IIC component (EC 2.7.1.69)	mscpx.1755
+PTS system, sucrose-specific IIB component (EC 2.7.1.69)	mscpx.1755
+Sulfate and thiosulfate binding protein CysP	mscpx.763
+Sulfate and thiosulfate binding protein CysP	mscpx.285
+Sulfate transport system permease protein CysT	mscpx.285
+Sulfate transport system permease protein CysW	mscpx.285
+Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	mscpx.285
+Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	mscpx.764
+PTS system, glucose-specific IIA component (EC 2.7.1.69)	mscpx.664
+PTS system, glucose-specific IIA component (EC 2.7.1.69)	mscpx.663
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	mscpx.664
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	mscpx.1721
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	mscpx.1605
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	mscpx.919
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	mscpx.1755
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	mscpx.365
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	mscpx.742
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	mscpx.1057
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	mscpx.1792
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	mscpx.673
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	mscpx.1320
+Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	mscpx.1747
+Nucleoside permease NupC	mscpx.794
+Nucleoside permease NupC	mscpx.218
+Lysine-arginine-ornithine-binding periplasmic protein precursor (TC 3.A.1.3.1)	mscpx.1049
+NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)	mscpx.22
+NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)	mscpx.310
+NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)	mscpx.18
+NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)	mscpx.310
+NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)	mscpx.24
+NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)	mscpx.310
+NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)	mscpx.310
+NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)	mscpx.25
+NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)	mscpx.310
+NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)	mscpx.17
+NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)	mscpx.310
+NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)	mscpx.28
+NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)	mscpx.310
+NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)	mscpx.29
+NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)	mscpx.310
+NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)	mscpx.27
+NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)	mscpx.310
+NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)	mscpx.310
+NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)	mscpx.23
+NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)	mscpx.21
+NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)	mscpx.310
+NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)	mscpx.20
+NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)	mscpx.310
+NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)	mscpx.26
+NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)	mscpx.310
+Periplasmic nitrate reductase precursor (EC 1.7.99.4)	mscpx.393
+Ferredoxin-type protein NapG (periplasmic nitrate reductase)	mscpx.1762
+Polyferredoxin NapH (periplasmic nitrate reductase)	mscpx.1762
+Nitrate reductase cytochrome c550-type subunit	mscpx.1762
+Cytochrome c-type protein NapC	mscpx.1762
+PTS system, fructose-specific IIA component (EC 2.7.1.69)	mscpx.673
+PTS system, fructose-specific IIB component (EC 2.7.1.69)	mscpx.673
+PTS system, fructose-specific IIC component (EC 2.7.1.69)	mscpx.673
+Galactose/methyl galactoside ABC transport system, D-galactose-binding periplasmic protein MglB (TC 3.A.1.2.3)	mscpx.1614
+Galactose/methyl galactoside ABC transport system, ATP-binding protein MglA (EC 3.6.3.17)	mscpx.1614
+Galactose/methyl galactoside ABC transport system, permease protein MglC (TC 3.A.1.2.3)	mscpx.1614
+PTS system, galactitol-specific IIA component (EC 2.7.1.69)	mscpx.365
+PTS system, galactitol-specific IIB component (EC 2.7.1.69)	mscpx.365
+PTS system, galactitol-specific IIC component (EC 2.7.1.69)	mscpx.365
+Tyrosine-specific transport protein	mscpx.1895
+L-arabinose-binding periplasmic protein precursor AraF (TC 3.A.1.2.2)	mscpx.1121
+L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	mscpx.1122
+Cytochrome c-type protein TorY	mscpx.935
+Zinc ABC transporter, inner membrane permease protein ZnuB	mscpx.1333
+Zinc ABC transporter, ATP-binding protein ZnuC	mscpx.1333
+Zinc ABC transporter, periplasmic-binding protein ZnuA	mscpx.1333
+PTS system, mannose-specific IID component (EC 2.7.1.69)	mscpx.1746
+PTS system, mannose-specific IIC component (EC 2.7.1.69)	mscpx.1747
+PTS system, mannose-specific IIB component (EC 2.7.1.69)	mscpx.1747
+PTS system, mannose-specific IIA component (EC 2.7.1.69)	mscpx.1747
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)	mscpx.498
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)	mscpx.913
+PTS system, maltose and glucose-specific IIB component (EC 2.7.1.69)	mscpx.665
+PTS system, maltose and glucose-specific IIB component (EC 2.7.1.69)	mscpx.1792
+PTS system, maltose and glucose-specific IIC component (EC 2.7.1.69)	mscpx.665
+PTS system, maltose and glucose-specific IIC component (EC 2.7.1.69)	mscpx.1792
+NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)	mscpx.1540
+NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)	mscpx.120
+NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	mscpx.1541
+NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	mscpx.120
+Trk system potassium uptake protein TrkG	mscpx.456
+Oligopeptide transport ATP-binding protein oppF (TC 3.A.1.5.1)	mscpx.58
+Oligopeptide transport ATP-binding protein oppD (TC 3.A.1.5.1)	mscpx.65
+Oligopeptide transport system permease protein oppC (TC 3.A.1.5.1)	mscpx.63
+Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein oppA (TC 3.A.1.5.1)	mscpx.68
+Respiratory nitrate reductase gamma chain (EC 1.7.99.4)	mscpx.1391
+Respiratory nitrate reductase gamma chain (EC 1.7.99.4)	mscpx.392
+Respiratory nitrate reductase delta chain (EC 1.7.99.4)	mscpx.1388
+Respiratory nitrate reductase delta chain (EC 1.7.99.4)	mscpx.392
+Respiratory nitrate reductase beta chain (EC 1.7.99.4)	mscpx.1389
+Respiratory nitrate reductase beta chain (EC 1.7.99.4)	mscpx.392
+Respiratory nitrate reductase alpha chain (EC 1.7.99.4)	mscpx.1390
+Respiratory nitrate reductase alpha chain (EC 1.7.99.4)	mscpx.392
+Calcium/proton antiporter	mscpx.1502
+Nitrate/nitrite transporter	mscpx.1645
+Spermidine Putrescine ABC transporter permease component potC (TC_3.A.1.11.1)	mscpx.348
+PTS system, glucose-specific IIC component (EC 2.7.1.69)	mscpx.664
+PTS system, glucose-specific IIC component (EC 2.7.1.69)	mscpx.663
+PTS system, glucose-specific IIB component (EC 2.7.1.69)	mscpx.664
+PTS system, glucose-specific IIB component (EC 2.7.1.69)	mscpx.663
+Trimethylamine-N-oxide reductase (EC 1.6.6.9)	mscpx.934
+Cytochrome c-type protein TorC	mscpx.933
+Ni,Fe-hydrogenase I cytochrome b subunit	mscpx.1827
+Uptake hydrogenase large subunit (EC 1.12.99.6)	mscpx.485
+Uptake hydrogenase small subunit precursor (EC 1.12.99.6)	mscpx.485
+Alkanesulfonates transport system permease protein	mscpx.232
+Alkanesulfonates ABC transporter ATP-binding protein	mscpx.232
+Transport ATP-binding protein CydD	mscpx.746
+Transport ATP-binding protein CydC	mscpx.746
+Putrescine transport system permease protein potI (TC 3.A.1.11.2)	mscpx.348
+Putrescine transport system permease protein potH (TC 3.A.1.11.2)	mscpx.348
+Putrescine transport ATP-binding protein potG (TC 3.A.1.11.2)	mscpx.348
+Soluble aldose sugar dehydrogenase, PQQ-dependent (EC 1.1.5.-)	mscpx.867
+Glutamine ABC transporter, periplasmic glutamine-binding protein (TC 3.A.1.3.2)	mscpx.1126
+Glutamine transport system permease protein glnP (TC 3.A.1.3.2)	mscpx.1126
+Glutamine transport ATP-binding protein glnQ (TC 3.A.1.3.2)	mscpx.1126
+Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)	mscpx.743
+Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)	mscpx.270
+Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)	mscpx.267
+Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)	mscpx.743
+Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)	mscpx.1827
+Potassium-transporting ATPase A chain (EC 3.6.3.12) (TC 3.A.3.7.1)	mscpx.1219
+Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1)	mscpx.1218
+Potassium-transporting ATPase C chain (EC 3.6.3.12) (TC 3.A.3.7.1)	mscpx.1220
+Putrescine/proton symporter, putrescine/ornithine antiporter PotE	mscpx.835
+PTS system, N-acetylglucosamine-specific IIC component (EC 2.7.1.69)	mscpx.1605
+Glutamate Aspartate periplasmic binding protein precursor gltI (TC 3.A.1.3.4)	mscpx.825
+Glutamate Aspartate transport system permease protein gltJ (TC 3.A.1.3.4)	mscpx.825
+Glutamate Aspartate transport system permease protein gltK (TC 3.A.1.3.4)	mscpx.825
+C4-dicarboxylate transporter DcuC (TC 2.A.61.1.1)	mscpx.336
+Glutamate Aspartate transport ATP-binding protein gltL (TC 3.A.1.3.4)	mscpx.825
+Phenylalanine-specific permease	mscpx.774
+Ammonium transporter	mscpx.1115
+Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)	mscpx.262
+Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)	mscpx.278
+Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)	mscpx.269
+Cytochrome O ubiquinol oxidase subunit IV (EC 1.10.3.-)	mscpx.276
+Taurine transport ATP-binding protein tauB	mscpx.1037
+Taurine-binding periplasmic protein tauA	mscpx.1038
+High-affinity choline uptake protein BetT	mscpx.128
+RTX toxin transporter, ATP-binding protein	mscpx.126
+Methionine ABC transporter permease protein	mscpx.126
+Methionine ABC transporter substrate-binding protein	mscpx.126
+Vitamin B12 ABC transporter, B12-binding component BtuF	mscpx.1618
+Vitamin B12 ABC transporter, B12-binding component BtuF	mscpx.189
+Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)	mscpx.249
+Aromatic amino acid transport protein aroP	mscpx.1625
+Aromatic amino acid transport protein aroP	mscpx.774
+Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2)	mscpx.868
+Thiamin ABC transporter, substrate-binding component	mscpx.1777
+Thiamin ABC transporter, ATPase component	mscpx.1777
+NADH dehydrogenase (EC 1.6.99.3)	mscpx.19
+Anaerobic dehydrogenases, typically selenocysteine-containing	mscpx.957
+CoB--CoM heterodisulfide reductase subunit C (EC 1.8.98.1)	mscpx.1017
+CoB--CoM heterodisulfide reductase subunit A (EC 1.8.98.1)	mscpx.1018
+CoB--CoM heterodisulfide reductase subunit B (EC 1.8.98.1)	mscpx.1016
+Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.99.2)	mscpx.41
+Anaerobic dimethyl sulfoxide reductase chain C (EC 1.8.99.-)	mscpx.91
+Anaerobic dimethyl sulfoxide reductase chain A (EC 1.8.99.-)	mscpx.91
+Adenylylsulfate reductase alpha-subunit (EC 1.8.99.2)	mscpx.1711
+Adenylylsulfate reductase alpha-subunit (EC 1.8.99.2)	mscpx.1225
+Adenylylsulfate reductase beta-subunit (EC 1.8.99.2)	mscpx.1710
+Adenylylsulfate reductase beta-subunit (EC 1.8.99.2)	mscpx.1225
+UDP-glucose dehydrogenase (EC 1.1.1.22)	mscpx.1419
+CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)	mscpx.210
+Sepiapterin reductase (EC 1.1.1.153)	mscpx.1606
+Acetoacetyl-CoA synthetase (EC 6.2.1.16)	mscpx.912
+4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)	mscpx.193
+Aromatic-amino-acid aminotransferase (EC 2.6.1.57)	mscpx.1690
+Nitric oxide synthase oxygenase (EC 1.-.-.-)	mscpx.833
+Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)	mscpx.1445
+Phenylalanine-4-hydroxylase (EC 1.14.16.1)	mscpx.885
+Fructose-bisphosphate aldolase, archaeal class I (EC 4.1.2.13)	mscpx.417
+Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	mscpx.415
+2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)	mscpx.940
+Fructose-bisphosphate aldolase class I (EC 4.1.2.13)	mscpx.416
+Phosphogluconate dehydratase (EC 4.2.1.12)	mscpx.772
+Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)	mscpx.354
+Glucose-6-phosphate isomerase (EC 5.3.1.9)	mscpx.299
+Glucose-6-phosphate isomerase, archaeal II (EC 5.3.1.9)	mscpx.298
+Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)	mscpx.570
+Glucosamine-6-phosphate deaminase [isomerizing], alternative (EC 3.5.99.6)	mscpx.1069
+Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	mscpx.1068
+S-adenosylmethionine:2-demethylmenaquinone methyltransferase (EC 2.1.-.-)	mscpx.755
+6-phospho-3-hexuloisomerase	mscpx.960
+D-arabino-3-hexulose 6-phosphate formaldehyde lyase	mscpx.635
+SSU ribosomal protein S12p (S23e)	mscpx.519
+Malate synthase G (EC 2.3.3.9)	mscpx.509
+Malyl-CoA lyase (EC 4.1.3.24)	mscpx.1045
+Malate synthase (EC 2.3.3.9)	mscpx.508
+L-alanine:glyoxylate aminotransferase (EC 2.6.1.44)	mscpx.801
+Glycolate permease	mscpx.1213
+Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF	mscpx.363
+Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF	mscpx.1199
+Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD	mscpx.1745
+Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD	mscpx.1201
+Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD	mscpx.363
+Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE	mscpx.1200
+Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE	mscpx.363
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)	mscpx.369
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)	mscpx.1732
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)	mscpx.370
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)	mscpx.1732
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)	mscpx.1731
+Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)	mscpx.368
+Glycine cleavage system H protein	mscpx.1668
+Glycine cleavage system H protein	mscpx.1731
+Glycine cleavage system H protein	mscpx.1732
+Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	mscpx.972
+2-oxoglutarate/malate translocator	mscpx.696
+Glutamine synthetase type I (EC 6.3.1.2)	mscpx.316
+Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)	mscpx.640
+Catalase (EC 1.11.1.6)	mscpx.1324
+Glycolate oxidase (EC 1.1.3.15)	mscpx.1743
+Phosphoglycolate phosphatase (EC 3.1.3.18)	mscpx.1459
+Ribulose bisphosphate carboxylase (EC 4.1.1.39)	mscpx.211
+Ribulose bisphosphate carboxylase small chain (EC 4.1.1.39)	mscpx.213
+Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	mscpx.212
+D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	mscpx.224
+IMP cyclohydrolase (EC 3.5.4.10) [alternate form]	mscpx.783
+Dihydroneopterin triphosphate pyrophosphohydolase type 2	mscpx.1435
+Thymidine kinase (EC 2.7.1.21)	mscpx.412
+5-nucleotidase SurE (EC 3.1.3.5)	mscpx.1447
+5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	mscpx.1723
+Formate--tetrahydrofolate ligase (EC 6.3.4.3)	mscpx.575
+Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)	mscpx.939
+Methionyl-tRNA formyltransferase (EC 2.1.2.9)	mscpx.519
+Serine hydroxymethyltransferase (EC 2.1.2.1)	mscpx.1278
+Thymidylate synthase (EC 2.1.1.45)	mscpx.1184
+Aminodeoxychorismate lyase (EC 4.1.3.38)	mscpx.330
+Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)	mscpx.1528
+Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)	mscpx.1526
+Alternative Folylglutamate Synthase	mscpx.439
+Folylpolyglutamate synthase (EC 6.3.2.17)	mscpx.440
+Alternative dihydrofolate reductase 2	mscpx.944
+FolM Alternative dihydrofolate reductase 1	mscpx.942
+Dihydrofolate reductase (EC 1.5.1.3)	mscpx.943
+Dihydrofolate synthase (EC 6.3.2.12)	mscpx.440
+Transaldolase (EC 2.2.1.2)	mscpx.667
+Dihydroneopterin aldolase (EC 4.1.2.25)	mscpx.1264
+Putative DHNTP pyrophosphatase	mscpx.1749
+Dihydroneopterin triphosphate pyrophosphohydolase	mscpx.809
+6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	mscpx.1703
+Transketolase (EC 2.2.1.1)	mscpx.325
+Ribose 5-phosphate isomerase A (EC 5.3.1.6)	mscpx.1575
+6-phosphogluconolactonase (EC 3.1.1.31)	mscpx.1837
+Shikimate kinase I (EC 2.7.1.71)	mscpx.1436
+Anaerobic dimethyl sulfoxide reductase chain B (EC 1.8.99.-)	mscpx.91
+Glutathione-dependent formaldehyde dehydrogenase (EC 1.2.1.1)	mscpx.353
+Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	mscpx.996
+Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	mscpx.996
+Adenosylcobinamide-phosphate synthase	mscpx.180
+GTP cyclohydrolase II (EC 3.5.4.25)	mscpx.1340
+GTP cyclohydrolase II (EC 3.5.4.25)	mscpx.1303
+5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	mscpx.544
+Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	mscpx.922
+Phosphoglycerate kinase (EC 2.7.2.3)	mscpx.1783
+Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	mscpx.1408
+Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	mscpx.389
+Fumarate hydratase class I, aerobic (EC 4.2.1.2)	mscpx.1348
+Spore photoproduct lyase (EC 4.1.99.-)	mscpx.331
+Thiazole biosynthesis protein ThiH	mscpx.76
+Thiazole biosynthesis protein ThiH	mscpx.404
+Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)	mscpx.1066
+L-aspartate oxidase (EC 1.4.3.16)	mscpx.467
+Biotin synthase (EC 2.8.1.6)	mscpx.1173
+Quinolinate synthetase (EC 4.1.99.-)	mscpx.241
+Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	mscpx.1799
+Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	mscpx.109
+Amidophosphoribosyltransferase (EC 2.4.2.14)	mscpx.1319
+NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)	mscpx.30
+NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)	mscpx.310
+Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	mscpx.253
+Aspartate carbamoyltransferase (EC 2.1.3.2)	mscpx.386
+Orotate phosphoribosyltransferase (EC 2.4.2.10)	mscpx.1728
+Dihydroorotase (EC 3.5.2.3)	mscpx.1210
+Dihydroorotate dehydrogenase (EC 1.3.3.1)	mscpx.998
+Dihydropteroate synthase (EC 2.5.1.15)	mscpx.700
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	mscpx.1370
+Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	mscpx.1668
+Glutathione biosynthesis bifunctional protein gshF (EC 6.3.2.2)(EC 6.3.2.3)	mscpx.1043
+Glutathione synthetase (EC 6.3.2.3)	mscpx.1737
+Predicted alternative glutathione synthetase (EC 6.3.2.3)	mscpx.1736
+Glutamate--cysteine ligase (EC 6.3.2.2)	mscpx.1042
+Lactoylglutathione lyase (EC 4.4.1.5)	mscpx.337
+Menaquinone-specific isochorismate synthase (EC 5.4.4.2)	mscpx.163
+Isochorismate synthase (EC 5.4.4.2) of siderophore biosynthesis	mscpx.164
+2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [enterobactin] siderophore	mscpx.911
+Isochorismate synthase (EC 5.4.4.2)	mscpx.165
+Isochorismatase (EC 3.3.2.1)	mscpx.931
+Isochorismatase (EC 3.3.2.1) [enterobactin] siderophore	mscpx.930
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore	mscpx.624
+Menaquinone-cytochrome C reductase iron-sulfur subunit	mscpx.329
+Menaquinone-cytochrome c reductase, cytochrome B subunit	mscpx.329
+Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)	mscpx.1602
+Saccharopine dehydrogenase [NAD+, L-lysine-forming] (EC 1.5.1.7)	mscpx.1793
+Saccharopine dehydrogenase [NADP , L-glutamate-forming] (EC 1.5.1.10)	mscpx.1761
+L-aminoadipate-semialdehyde dehydrogenase small subunit (EC 1.2.1.31)	mscpx.53
+Homoaconitase (EC 4.2.1.36)	mscpx.294
+L-aminoadipate-semialdehyde dehydrogenase large subunit (EC 1.2.1.31)	mscpx.54
+N-acetyl-lysine deacetylase (EC 3.5.1.-)	mscpx.1594
+N-acetyl-lysine aminotransferase (EC 2.6.1.-)	mscpx.14
+N-acetyl-gamma-aminoadipyl-phosphate reductase (EC 1.2.1.-)	mscpx.1669
+Acetylaminoadipate kinase (EC 2.7.2.-)	mscpx.1271
+Lysine biosynthesis protein LysX	mscpx.286
+Homoisocitrate dehydrogenase (EC 1.1.1.87)	mscpx.1293
+Alpha-aminoadipate aminotransferase (EC 2.6.1.39)	mscpx.1537
+Homoaconitase small subunit (EC 4.2.1.36)	mscpx.293
+Homoaconitase large subunit (EC 4.2.1.36)	mscpx.295
+Homocitrate synthase (EC 2.3.3.14)	mscpx.1616
+Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	mscpx.688
+LSU ribosomal protein L28p	mscpx.519
+Biotin operon repressor	mscpx.1771
+Biotin-protein ligase (EC 6.3.4.15)	mscpx.1509
+Biotin-protein ligase (EC 6.3.4.15)	mscpx.1771
+Methylglyoxal synthase (EC 4.2.3.3)	mscpx.621
+Dihydrodipicolinate reductase (EC 1.3.1.26)	mscpx.1730
+Copper-translocating P-type ATPase (EC 3.6.3.4)	mscpx.1697
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)	mscpx.1405
+6-pyruvoyl tetrahydrobiopterin synthase (EC 4.2.3.12)	mscpx.1146
+Carbonic anhydrase (EC 4.2.1.1)	mscpx.1444
+HoxN/HupN/NixA family nickel/cobalt transporter	mscpx.1547
+GTP cyclohydrolase I (EC 3.5.4.16) type 2	mscpx.116
+3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.41)	mscpx.244
+(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase (EC 4.2.1.-)	mscpx.94
+Acetaldehyde dehydrogenase (EC 1.2.1.10)	mscpx.1907
+Acetaldehyde dehydrogenase (EC 1.2.1.10)	mscpx.843
+Aldehyde dehydrogenase (EC 1.2.1.3)	mscpx.145
+Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9)	mscpx.1358
+Acetyl-CoA synthetase (ADP-forming) beta chain (EC 6.2.1.13)	mscpx.1482
+Acetyl-CoA synthetase (ADP-forming) beta chain (EC 6.2.1.13)	mscpx.658
+Acetyl-CoA synthetase (ADP-forming) alpha chain (EC 6.2.1.13)	mscpx.658
+Acetyl-CoA synthetase (ADP-forming) alpha chain (EC 6.2.1.13)	mscpx.1481
+Acetyl-coenzyme A synthetase (EC 6.2.1.1)	mscpx.657
+Acetyl-coenzyme A synthetase (EC 6.2.1.1)	mscpx.848
+Pyruvate decarboxylase (EC 4.1.1.1)	mscpx.823
+Acetate kinase (EC 2.7.2.1)	mscpx.5
+Acylphosphate phosphohydrolase (EC 3.6.1.7), putative	mscpx.344
+Pyruvate oxidase (EC 1.2.3.3)	mscpx.1256
+Phosphate acetyltransferase (EC 2.3.1.8)	mscpx.945
+Pyruvate oxidase [ubiquinone, cytochrome] (EC 1.2.2.2)	mscpx.1031
+Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)	mscpx.974
+Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)	mscpx.1524
+Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)	mscpx.1815
+Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)	mscpx.1105
+Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)	mscpx.1814
+Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)	mscpx.1105
+Pyruvate dehydrogenase E1 component (EC 1.2.4.1)	mscpx.1104
+Heme oxygenase (EC 1.14.99.3)	mscpx.984
+Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)	mscpx.328
+Ribonucleotide reduction protein NrdI	mscpx.768
+Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)	mscpx.768
+Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)	mscpx.768
+Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)	mscpx.767
+Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)	mscpx.769
+Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)	mscpx.1067
+L-proline glycine betaine binding ABC transporter protein proX (TC 3.A.1.12.1)	mscpx.906
+Poly(A) polymerase (EC 2.7.7.19)	mscpx.1702
+2-ketoaldonate reductase, broad specificity (EC 1.1.1.215) (EC 1.1.1.-)	mscpx.234
+Phosphocarrier protein of PTS system	mscpx.664
+Phosphocarrier protein of PTS system	mscpx.1721
+Phosphocarrier protein of PTS system	mscpx.1605
+Phosphocarrier protein of PTS system	mscpx.919
+Phosphocarrier protein of PTS system	mscpx.1755
+Phosphocarrier protein of PTS system	mscpx.365
+Phosphocarrier protein of PTS system	mscpx.742
+Phosphocarrier protein of PTS system	mscpx.1057
+Phosphocarrier protein of PTS system	mscpx.1792
+Phosphocarrier protein of PTS system	mscpx.673
+Phosphocarrier protein of PTS system	mscpx.1320
+Phosphocarrier protein of PTS system	mscpx.1747
+Inorganic pyrophospatase PpaX	mscpx.1833
+Iron compound ABC uptake transporter ATP-binding protein	mscpx.1555
+Similar to coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)	mscpx.1065
+Cytochrome c oxidase subunit CcoQ (EC 1.9.3.1)	mscpx.1859
+Cytochrome c oxidase subunit CcoN (EC 1.9.3.1)	mscpx.1864
+Cytochrome c oxidase subunit CcoO (EC 1.9.3.1)	mscpx.1862
+Cytochrome c oxidase subunit CcoP (EC 1.9.3.1)	mscpx.1846
+Type cbb3 cytochrome oxidase biogenesis protein CcoS, involved in heme b insertion	mscpx.1908
+Type cbb3 cytochrome oxidase biogenesis protein CcoI	mscpx.1908
+Type cbb3 cytochrome oxidase biogenesis protein CcoH	mscpx.1908
+Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation	mscpx.1908
+Alkanesulfonates-binding protein	mscpx.232
+Allophanate hydrolase	mscpx.1284
+Eukaryotic-type low-affinity urea transporter	mscpx.1780
+Urease accessory protein UreG	mscpx.1894
+Urea channel UreI	mscpx.1781
+Urease accessory protein UreE	mscpx.1894
+Urease accessory protein UreF	mscpx.1894
+Urease gamma subunit (EC 3.5.1.5)	mscpx.1893
+Urease accessory protein UreD	mscpx.1894
+Urease alpha subunit (EC 3.5.1.5)	mscpx.1893
+Urease beta subunit (EC 3.5.1.5)	mscpx.1893
+GDP-mannose 4,6-dehydratase (EC 4.2.1.47)	mscpx.1147
+Phosphomannomutase (EC 5.4.2.8)	mscpx.1776
+Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22)	mscpx.256
+Dephospho-CoA kinase archaeal, predicted (EC 2.7.1.24)	mscpx.385
+Dephospho-CoA kinase (EC 2.7.1.24)	mscpx.384
+Phosphopantetheine adenylyltransferase, type II eukaryotic (EC 2.7.7.3)	mscpx.1796
+Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36)	mscpx.402
+Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)	mscpx.402
+Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)	mscpx.641
+Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)	mscpx.758
+Pantothenate kinase type II, eukaryotic (EC 2.7.1.33)	mscpx.760
+Pantothenate kinase (EC 2.7.1.33)	mscpx.761
+Pantothenate:Na+ symporter (TC 2.A.21.1.1)	mscpx.1230
+Pantoate--beta-alanine ligase (EC 6.3.2.1)	mscpx.722
+Ketol-acid reductoisomerase (EC 1.1.1.86)	mscpx.777
+2-dehydropantoate 2-reductase (EC 1.1.1.169)	mscpx.1806
+3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)	mscpx.1276
+Aspartate 1-decarboxylase (EC 4.1.1.11)	mscpx.1887
+Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)	mscpx.1025
+Cytochrome cd1 nitrite reductase (EC:1.7.2.1)	mscpx.448
+Ribosylnicotinamide kinase, eukaryotic (EC 2.7.1.22)	mscpx.1727
+Thiamin pyrophosphokinase (EC 2.7.6.2)	mscpx.1644
+Deoxyguanosine kinase (EC 2.7.1.113)	mscpx.628
+Ribosylnicotinamide kinase (EC 2.7.1.22)	mscpx.1726
+Ribosyl nicotinamide transporter, PnuC-like	mscpx.815
+Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB	mscpx.1117
+Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	mscpx.1797
+tRNA pseudouridine synthase B (EC 4.2.1.70)	mscpx.985
+tRNA pseudouridine synthase A (EC 4.2.1.70)	mscpx.985
+tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)	mscpx.1056
+GTP cyclohydrolase I (EC 3.5.4.16) type 1	mscpx.115
+tRNA(Ile)-lysidine synthetase	mscpx.519
+Selenide,water dikinase (EC 2.7.9.3)	mscpx.473
+tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)	mscpx.1056
+tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	mscpx.1056
+Ribosomal large subunit pseudouridine synthase A (EC 4.2.1.70)	mscpx.987
+Thiamine biosynthesis protein thiI	mscpx.404
+Cysteine desulfurase (EC 2.8.1.7)	mscpx.404
+Cysteine desulfurase (EC 2.8.1.7)	mscpx.887
+Cytosine/purine/uracil/thiamine/allantoin permease family protein	mscpx.1507
+Allantoinase (EC 3.5.2.5)	mscpx.1265
+Urocanate hydratase (EC 4.2.1.49)	mscpx.1434
+Beta-ureidopropionase (EC 3.5.1.6)	mscpx.1287
+Dihydropyrimidinase (EC 3.5.2.2)	mscpx.670
+Glucose-1-phosphate cytidylyltransferase (EC 2.7.7.33)	mscpx.1154
+Similar to CDP-glucose 4,6-dehydratase (EC 4.2.1.45)	mscpx.1646
+Dihydrolipoamide dehydrogenase of acetoin dehydrogenase (EC 1.8.1.4)	mscpx.1880
+Dihydrolipoamide dehydrogenase of acetoin dehydrogenase (EC 1.8.1.4)	mscpx.975
+Dihydrolipoamide acetyltransferase component (E2) of acetoin dehydrogenase complex (EC 2.3.1.-)	mscpx.1525
+Dihydrolipoamide acetyltransferase component (E2) of acetoin dehydrogenase complex (EC 2.3.1.-)	mscpx.1880
+Acetoin dehydrogenase E1 component beta-subunit (EC 1.2.4.-)	mscpx.1880
+Acetoin dehydrogenase E1 component alpha-subunit (EC 1.2.4.-)	mscpx.1880
+Acetoin (diacetyl) reductase (EC 1.1.1.5)	mscpx.130
+2,3-butanediol dehydrogenase, S-alcohol forming, (S)-acetoin-specific (EC 1.1.1.76)	mscpx.1826
+2,3-butanediol dehydrogenase, S-alcohol forming, (R)-acetoin-specific (EC 1.1.1.4)	mscpx.1132
+2,3-butanediol dehydrogenase, R-alcohol forming, (R)- and (S)-acetoin-specific (EC 1.1.1.4)	mscpx.1133
+Acetolactate synthase small subunit (EC 2.2.1.6), Xanthomonadales type	mscpx.992
+Acetolactate synthase small subunit (EC 2.2.1.6), predicted, Archaeal type 2	mscpx.994
+Acetolactate synthase small subunit (EC 2.2.1.6), predicted, Archaeal type	mscpx.990
+Acetolactate synthase small subunit (EC 2.2.1.6), predicted	mscpx.993
+Acetolactate synthase small subunit (EC 2.2.1.6)	mscpx.991
+Acetolactate synthase large subunit (EC 2.2.1.6)	mscpx.991
+Coenzyme F420 hydrogenase gamma subunit (FruG) (EC 1.12.98.1)	mscpx.1091
+Coenzyme F420 hydrogenase alpha subunit (FruA) (EC 1.12.98.1)	mscpx.1094
+Coenzyme F420 hydrogenase beta subunit (FruB) (EC 1.12.98.1)	mscpx.1092
+Coenzyme F420 hydrogenase gamma subunit (FrcG) (EC 1.12.98.1)	mscpx.1093
+Coenzyme F420 hydrogenase beta subunit (FrcB) (EC 1.12.98.1)	mscpx.1090
+Coenzyme F420 hydrogenase alpha subunit (FrcA) (EC 1.12.98.1)	mscpx.1095
+Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE	mscpx.898
+Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE	mscpx.1764
+Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE	mscpx.1489
+Hydroxyacylglutathione hydrolase (EC 3.1.2.6)	mscpx.595
+Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)	mscpx.1615
+2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16)	mscpx.475
+Trk system potassium uptake protein trkA	mscpx.461
+Phosphoribulokinase (EC 2.7.1.19)	mscpx.1548
+Biotin carboxyl carrier protein	mscpx.1217
+Oxaloacetate decarboxylase involved in citrate fermentation, predicted (EC 4.1.1.3)	mscpx.1180
+Oxaloacetate decarboxylase involved in citrate fermentation (EC 4.1.1.3)	mscpx.1183
+Oxaloacetate decarboxylase, divalent-cation-dependent (EC 4.1.1.3)	mscpx.1179
+Biotin carboxyl carrier protein of oxaloacetate decarboxylase	mscpx.1181
+Oxaloacetate decarboxylase gamma chain (EC 4.1.1.3)	mscpx.1177
+Oxaloacetate decarboxylase beta chain (EC 4.1.1.3)	mscpx.1182
+Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3)	mscpx.1178
+Malolactic enzyme (EC 1.-.-.-)	mscpx.1470
+Aerobic C4-dicarboxylate transporter for fumarate, L-malate, D-malate, succunate, aspartate	mscpx.409
+Malate Na(+) symporter	mscpx.695
+D-malic enzyme (EC 1.1.1.83)	mscpx.339
+NADP-dependent malic enzyme (EC 1.1.1.40)	mscpx.765
+NAD-dependent malic enzyme (EC 1.1.1.38)	mscpx.1471
+Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)	mscpx.1019
+Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)	mscpx.1779
+Phosphoenolpyruvate carboxylase, archaeal (EC 4.1.1.31)	mscpx.786
+Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	mscpx.785
+Pyruvate carboxyl transferase subunit B (EC 6.4.1.1)	mscpx.1398
+Pyruvate carboxyl transferase subunit A (EC 6.4.1.1)	mscpx.1399
+Pyruvate carboxyl transferase (EC 6.4.1.1)	mscpx.1400
+Pyruvate,phosphate dikinase (EC 2.7.9.1)	mscpx.1639
+Phosphoenolpyruvate synthase (EC 2.7.9.2)	mscpx.1030
+NAD-dependent formate dehydrogenase (EC 1.2.1.2)	mscpx.958
+Formate dehydrogenase related protein	mscpx.953
+Formate dehydrogenase N alpha subunit (EC 1.2.1.2)	mscpx.949
+Formate dehydrogenase N alpha subunit (EC 1.2.1.2)	mscpx.469
+Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)	mscpx.408
+Formate efflux transporter (TC 2.A.44 family)	mscpx.1280
+Pyruvate formate-lyase (EC 2.3.1.54)	mscpx.407
+Putative formate dehydrogenase oxidoreductase protein	mscpx.952
+Formate dehydrogenase N gamma subunit (EC 1.2.1.2)	mscpx.948
+Formate dehydrogenase N gamma subunit (EC 1.2.1.2)	mscpx.469
+Formate dehydrogenase N beta subunit (EC 1.2.1.2)	mscpx.469
+Formate dehydrogenase N beta subunit (EC 1.2.1.2)	mscpx.951
+Formate dehydrogenase O beta subunit (EC 1.2.1.2)	mscpx.956
+Formate dehydrogenase O beta subunit (EC 1.2.1.2)	mscpx.469
+Formate dehydrogenase O gamma subunit (EC 1.2.1.2)	mscpx.469
+Formate dehydrogenase O gamma subunit (EC 1.2.1.2)	mscpx.955
+Formate dehydrogenase chain D (EC 1.2.1.2)	mscpx.959
+Formate dehydrogenase O alpha subunit (EC 1.2.1.2)	mscpx.469
+Formate dehydrogenase O alpha subunit (EC 1.2.1.2)	mscpx.954
+Formate hydrogenlyase subunit 7	mscpx.1827
+Formate hydrogenlyase subunit 6	mscpx.1827
+Formate hydrogenlyase subunit 5	mscpx.1827
+Formate hydrogenlyase subunit 4	mscpx.1827
+Formate hydrogenlyase subunit 3	mscpx.1827
+Formate hydrogenlyase subunit 2	mscpx.1827
+UDP-galactopyranose mutase (EC 5.4.99.9)	mscpx.228
+Lipopolysaccharide core biosynthesis protein RfaZ	mscpx.6
+Lipopolysaccharide 1,6-galactosyltransferase (EC 2.4.1.-)	mscpx.1362
+Lipopolysaccharide 1,2-N-acetylglucosaminetransferase (EC 2.4.1.56)	mscpx.488
+UDP-galactose:(galactosyl) LPS alpha1,2-galactosyltransferase WaaW (EC 2.4.1.-)	mscpx.900
+UDP-glucose:(glucosyl)lipopolysaccharide alpha-1,3-glucosyltransferase WaaO (EC 2.4.1.-)	mscpx.966
+UDP-glucose:(heptosyl) LPS alpha1,3-glucosyltransferase WaaG (EC 2.4.1.-)	mscpx.1367
+Lipopolysaccharide core biosynthesis protein RfaY	mscpx.576
+Lipopolysaccharide heptosyltransferase III (EC 2.4.1.-)	mscpx.866
+Lipopolysaccharide core biosynthesis protein WaaP (EC 2.7.-.-), heptosyl-I-kinase	mscpx.1044
+ADP-heptose--lipooligosaccharide heptosyltransferase II (EC 2.4.1.-)	mscpx.1514
+Lipopolysaccharide heptosyltransferase I (EC 2.4.1.-)	mscpx.1819
+Lipid IVA 3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12) [often with (EC 2.4.99.13) also]	mscpx.1354
+ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)	mscpx.463
+D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase (EC 3.1.1.-)	mscpx.750
+ADP-heptose synthase (EC 2.7.-.-)	mscpx.511
+D-glycero-beta-D-manno-heptose 7-phosphate kinase	mscpx.1275
+Phosphoheptose isomerase 2 (EC 5.3.1.-)	mscpx.1751
+Phosphoheptose isomerase 1 (EC 5.3.1.-)	mscpx.1750
+Phosphoheptose isomerase (EC 5.3.1.-)	mscpx.1752
+Ribokinase (EC 2.7.1.15)	mscpx.821
+Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)	mscpx.405
+Nitric-oxide reductase (EC 1.7.99.7), quinol-dependent	mscpx.501
+Ferrichrome transport system permease protein fhuG	mscpx.1556
+Ferric hydroxamate ABC transporter (TC 3.A.1.14.3), permease component FhuB	mscpx.1556
+Ferric hydroxamate ABC transporter (TC 3.A.1.14.3), periplasmic substrate binding protein FhuD	mscpx.1556
+Ferric hydroxamate ABC transporter (TC 3.A.1.14.3), ATP-binding protein FhuC	mscpx.1556
+Sucrose phosphorylase (EC 2.4.1.7)	mscpx.133
+L-gulono-1,4-lactone oxidase (EC 1.1.3.8)	mscpx.483
+L(+)-tartrate dehydratase beta subunit (EC 4.2.1.32)	mscpx.1058
+L(+)-tartrate dehydratase alpha subunit (EC 4.2.1.32)	mscpx.1059
+D-Glucuronolactone:NAD+ oxidoreductase (EC 1.2.1.3)	mscpx.1231
+Glucarate dehydratase (EC 4.2.1.40)	mscpx.1260
+D-galactarate dehydratase (EC 4.2.1.42)	mscpx.1101
+5-dehydro-4-deoxyglucarate dehydratase (EC 4.2.1.41)	mscpx.343
+Hydroxypyruvate reductase, putative (EC 1.1.1.81)	mscpx.214
+Xanthosine permease	mscpx.826
+Xanthosine phosphorylase (EC 2.4.2.1)	mscpx.288
+5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)	mscpx.684
+Cytochrome c552 precursor (EC 1.7.2.2)	mscpx.727
+DNA gyrase subunit B (EC 5.99.1.3)	mscpx.584
+DNA polymerase III beta subunit (EC 2.7.7.7)	mscpx.584
+Chromosomal replication initiator protein DnaA	mscpx.584
+Ribonuclease P protein component (EC 3.1.26.5)	mscpx.1056
+Chorismate synthase (EC 4.2.3.5)	mscpx.989
+Alpha-acetolactate decarboxylase (EC 4.1.1.5)	mscpx.567
+Acetolactate synthase, catabolic (EC 2.2.1.6)	mscpx.1103
+Cytidine deaminase (EC 3.5.4.5)	mscpx.795
+Pyruvate oxidase, CidC	mscpx.1426
+Cyclohexadienyl dehydratase (EC 4.2.1.51)(EC 4.2.1.91)	mscpx.846
+Prephenate dehydratase (EC 4.2.1.51)	mscpx.845
+Arogenate dehydratase (EC 4.2.1.91)	mscpx.1767
+Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43)	mscpx.1313
+Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)	mscpx.1312
+Prephenate dehydrogenase (EC 1.3.1.12)	mscpx.1314
+Arogenate dehydrogenase (EC 1.3.1.43)	mscpx.505
+Aromatic amino acid aminotransferase gamma (EC 2.6.1.57)	mscpx.579
+Periplasmic aromatic amino acid aminotransferase beta precursor (EC 2.6.1.57)	mscpx.799
+Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	mscpx.580
+Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	mscpx.800
+Chorismate mutase III (EC 5.4.99.5)	mscpx.1492
+Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57)	mscpx.578
+Chorismate mutase II (EC 5.4.99.5)	mscpx.1494
+Periplasmic chorismate mutase I precursor (EC 5.4.99.5)	mscpx.1496
+Carnitinyl-CoA dehydratase (EC 4.2.1.-)	mscpx.97
+Methanol dehydrogenase large subunit protein (EC 1.1.99.8)	mscpx.1446
+2-dehydro-3-deoxyglucarate aldolase (EC 4.1.2.20)	mscpx.916
+Glycerate kinase (EC 2.7.1.31)	mscpx.1713
+Pyruvate kinase (EC 2.7.1.40)	mscpx.1664
+D-glycerate 2-kinase (EC 2.7.1.-)	mscpx.1712
+Tartrate decarboxylase (EC 4.1.1.73)	mscpx.339
+Hydroxypyruvate reductase (EC 1.1.1.81)	mscpx.215
+Hydroxypyruvate reductase (EC 1.1.1.81)	mscpx.304
+Hydroxypyruvate isomerase (EC 5.3.1.22)	mscpx.1795
+Serine--glyoxylate aminotransferase (EC 2.6.1.45)	mscpx.1673
+2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)	mscpx.1012
+Glyoxylate carboligase (EC 4.1.1.47)	mscpx.596
+2-dehydro-3-deoxygluconate kinase (EC 2.7.1.45)	mscpx.1073
+Salicylate hydroxylase (EC 1.14.13.1)	mscpx.160
+6-phosphofructokinase (EC 2.7.1.11), PF08013 family	mscpx.1910
+Sorbitol dehydrogenase (EC 1.1.1.14)	mscpx.1364
+Glucitol/sorbitol-specific transport protein gutA	mscpx.291
+Fructokinase (EC 2.7.1.4)	mscpx.1386
+D-ribulokinase (EC 2.7.1.47)	mscpx.577
+Xylulose kinase (EC 2.7.1.17)	mscpx.15
+Ribitol 2-dehydrogenase (EC 1.1.1.56)	mscpx.543
+Multiple polyol-specific dehydrogenase (EC 1.1.1.-)	mscpx.1812
+D-arabinitol 4-dehydrogenase (EC 1.1.1.11)	mscpx.611
+Xylitol dehydrogenase (EC 1.1.1.9)	mscpx.1361
+Citrate lyase, subunit 2 (EC 2.3.3.8)	mscpx.1004
+Citrate lyase, subunit 1 (EC 2.3.3.8)	mscpx.1003
+Isocitrate dehydrogenase [NAD] (EC 1.1.1.41)	mscpx.1298
+Citrate synthase (si) (EC 2.3.3.1)	mscpx.1369
+Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	mscpx.73
+Aconitate hydratase (EC 4.2.1.3)	mscpx.1145
+Aconitate hydratase (EC 4.2.1.3)	mscpx.717
+Aconitate hydratase 2 (EC 4.2.1.3)	mscpx.715
+Aconitate hydratase 2 (EC 4.2.1.3)	mscpx.1145
+3-ketoacyl-CoA thiolase (EC 2.3.1.16)	mscpx.454
+3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	mscpx.147
+Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)	mscpx.1453
+Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	mscpx.1453
+SSU ribosomal protein S21p	mscpx.519
+RNA polymerase sigma factor RpoD	mscpx.1056
+DNA primase (EC 2.7.7.-)	mscpx.584
+Quinate/shikimate 5-dehydrogenase I delta (EC 1.1.1.25)	mscpx.1532
+Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)	mscpx.1531
+Shikimate 5-dehydrogenase (EC 1.1.1.25)	mscpx.1534
+Alanyl-tRNA synthetase (EC 6.1.1.7)	mscpx.519
+Alanyl-tRNA synthetase (EC 6.1.1.7)	mscpx.517
+Glutamate racemase (EC 5.1.1.3)	mscpx.332
+Gamma-glutamyltranspeptidase (EC 2.3.2.2)	mscpx.827
+Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	mscpx.780
+Ubiquinol-cytochrome-c reductase complex core protein 2, mitochondrial precursor (EC 1.10.2.2)	mscpx.745
+Ubiquinol-cytochrome-c reductase complex core protein 2, mitochondrial precursor (EC 1.10.2.2)	mscpx.263
+Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)	mscpx.248
+Copper-containing nitrite reductase (EC 1.7.2.1)	mscpx.1186
+Nitric-oxide reductase subunit B (EC 1.7.99.7)	mscpx.1570
+Nitric-oxide reductase subunit C (EC 1.7.99.7)	mscpx.1569
+Nitrous-oxide reductase (EC 1.7.99.6)	mscpx.1119
+Ferredoxin--NADP(+) reductase (EC 1.18.1.2)	mscpx.1456
+Ferroxidase (EC 1.16.3.1)	mscpx.1236
+Superoxide dismutase [Mn] (EC 1.15.1.1)	mscpx.375
+Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)	mscpx.1810
+Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	mscpx.1672
+Putative Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	mscpx.976
+Alcohol dehydrogenase (EC 1.1.1.1)	mscpx.893
+Formylmethanofuran dehydrogenase subunit A (EC 1.2.99.5)	mscpx.1382
+Formylmethanofuran dehydrogenase subunit A (EC 1.2.99.5)	mscpx.1021
+Formylmethanofuran dehydrogenase subunit B (EC 1.2.99.5)	mscpx.1021
+Formylmethanofuran dehydrogenase subunit B (EC 1.2.99.5)	mscpx.1375
+Formylmethanofuran dehydrogenase (molybdenum) subunit B (EC 1.2.99.5)	mscpx.1383
+Formylmethanofuran dehydrogenase (molybdenum) subunit B (EC 1.2.99.5)	mscpx.1022
+Formylmethanofuran dehydrogenase (tungsten) subunit B (EC 1.2.99.5)	mscpx.1377
+Formylmethanofuran dehydrogenase subunit C (EC 1.2.99.5)	mscpx.1379
+Formylmethanofuran dehydrogenase subunit C (EC 1.2.99.5)	mscpx.1021
+Formylmethanofuran dehydrogenase (molybdenum) subunit C (EC 1.2.99.5)	mscpx.1381
+Formylmethanofuran dehydrogenase (molybdenum) subunit C (EC 1.2.99.5)	mscpx.1022
+Formylmethanofuran dehydrogenase (tungsten) subunit C (EC 1.2.99.5)	mscpx.1020
+Formylmethanofuran dehydrogenase (tungsten) subunit C (EC 1.2.99.5)	mscpx.1384
+Formylmethanofuran dehydrogenase subunit D (EC 1.2.99.5)	mscpx.1021
+Formylmethanofuran dehydrogenase subunit D (EC 1.2.99.5)	mscpx.1378
+Formylmethanofuran dehydrogenase (molybdenum) subunit D (EC 1.2.99.5)	mscpx.1376
+Formylmethanofuran dehydrogenase (molybdenum) subunit D (EC 1.2.99.5)	mscpx.1022
+Formylmethanofuran dehydrogenase (tungsten) subunit D (EC 1.2.99.5)	mscpx.1020
+Formylmethanofuran dehydrogenase (tungsten) subunit D (EC 1.2.99.5)	mscpx.1380
+Formylmethanofuran--tetrahydromethanopterin N-formyltransferase (EC 2.3.1.101)	mscpx.1722
+F420-dependent N(5),N(10)-methylenetetrahydromethanopterin reductase (EC 1.5.99.11)	mscpx.1334
+N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit A (EC 2.1.1.86)	mscpx.615
+N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit B (EC 2.1.1.86)	mscpx.616
+N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit C (EC 2.1.1.86)	mscpx.619
+N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit D (EC 2.1.1.86)	mscpx.618
+N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit E (EC 2.1.1.86)	mscpx.614
+N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit F (EC 2.1.1.86)	mscpx.613
+N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit G (EC 2.1.1.86)	mscpx.612
+N5-methyltetrahydromethanopterin:coenzyme M methyltransferase subunit H (EC 2.1.1.86)	mscpx.617
+Methyl coenzyme M reductase alpha subunit (EC 2.8.4.1)	mscpx.1464
+Methyl coenzyme M reductase I alpha subunit (EC 2.8.4.1)	mscpx.1461
+Methyl coenzyme M reductase beta subunit (EC 2.8.4.1)	mscpx.1467
+Methyl coenzyme M reductase gamma subunit (EC 2.8.4.1)	mscpx.1462
+N-acetylglutamate synthase (EC 2.3.1.1)	mscpx.1409
+N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	mscpx.1512
+Acetylornithine aminotransferase (EC 2.6.1.11)	mscpx.427
+Acetylornithine deacetylase (EC 3.5.1.16)	mscpx.1754
+Argininosuccinate synthase (EC 6.3.4.5)	mscpx.683
+Argininosuccinate lyase (EC 4.3.2.1)	mscpx.32
+Glutamate N-acetyltransferase (EC 2.3.1.35)	mscpx.1763
+Methylamine dehydrogenase heavy chain precursor (EC 1.4.99.3)	mscpx.968
+Methylamine dehydrogenase light chain precursor (EC 1.4.99.3)	mscpx.969
+Sulfate transporter, CysZ-type	mscpx.284
+Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)	mscpx.436
+Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)	mscpx.1046
+Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)	mscpx.435
+Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)	mscpx.1046
+Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)	mscpx.1163
+3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)	mscpx.632
+Sulfite reductase [NADPH] flavoprotein alpha-component (EC 1.8.1.2)	mscpx.1642
+Serine acetyltransferase (EC 2.3.1.30)	mscpx.1222
+Cysteine synthase (EC 2.5.1.47)	mscpx.259
+Cysteine synthase B (EC 2.5.1.47)	mscpx.260
+Monoglyceride lipase (EC 3.1.1.23)	mscpx.1701
+Choline dehydrogenase (EC 1.1.99.1)	mscpx.56
+Betaine aldehyde dehydrogenase (EC 1.2.1.8)	mscpx.851
+Glycine betaine ABC transport system, permease protein OpuAB	mscpx.647
+Glycine betaine ABC transport system, glycine betaine-binding protein OpuAC	mscpx.647
+Glycine betaine ABC transport system permease protein	mscpx.1150
+Alcohol dehydrogenase GbsB (type III ), essential for the utilization of choline (EC 1.1.1.1)	mscpx.1098
+Sarcosine oxidase alpha subunit (EC 1.5.3.1)	mscpx.87
+Sarcosine oxidase beta subunit (EC 1.5.3.1)	mscpx.87
+2-aminoethylphosphonate:pyruvate aminotransferase (EC 2.6.1.37)	mscpx.1460
+Phosphonoacetaldehyde hydrolase (EC 3.11.1.1)	mscpx.970
+Adenylosuccinate lyase (EC 4.3.2.2)	mscpx.903
+5'-nucleotidase (EC 3.1.3.5)	mscpx.863
+Uridine phosphorylase (EC 2.4.2.3)	mscpx.1580
+Cytidylate kinase (EC 2.7.4.14)	mscpx.797
+Nucleoside diphosphate kinase (EC 2.7.4.6)	mscpx.356
+CTP synthase (EC 6.3.4.2)	mscpx.822
+Thymidine phosphorylase (EC 2.4.2.4)	mscpx.1252
+Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)	mscpx.644
+Deoxycytidylate 5-hydroxymethyltransferase (EC 2.1.2.8)	mscpx.419
+Deoxycytidine kinase (EC 2.7.1.74)	mscpx.1281
+Thymidylate synthase (FAD) (EC 2.1.1.148)	mscpx.1128
+Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	mscpx.731
+Monoamine oxidase (1.4.3.4)	mscpx.492
+Amiloride-sensitive amine oxidase [copper-containing] precursor (EC 1.4.3.21)	mscpx.490
+5-aminolevulinate synthase (EC 2.3.1.37)	mscpx.1404
+Phosphatidylserine decarboxylase (EC 4.1.1.65)	mscpx.251
+Lipopolysaccharide biosynthesis protein RffC	mscpx.983
+Lipopolysaccharide biosynthesis protein RffA	mscpx.1724
+UDP-N-acetyl-D-mannosamine dehydrogenase (EC 1.1.1.-)	mscpx.37
+Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)	mscpx.1519
+Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11)	mscpx.1699
+Alanine racemase (EC 5.1.1.1)	mscpx.627
+Alanine racemase, biosynthetic (EC 5.1.1.1)	mscpx.625
+Alanine racemase, catabolic (EC 5.1.1.1)	mscpx.626
+D-serine dehydratase (EC 4.3.1.18)	mscpx.603
+L-serine dehydratase, alpha subunit (EC 4.3.1.17)	mscpx.1545
+L-serine dehydratase, beta subunit (EC 4.3.1.17)	mscpx.1545
+D-alanine aminotransferase (EC 2.6.1.21)	mscpx.671
+Formate dehydrogenase H (EC 1.2.1.2)	mscpx.950
+Formate dehydrogenase H (EC 1.2.1.2)	mscpx.469
+Iron compound ABC uptake transporter substrate-binding protein	mscpx.1555
+Iron compound ABC uptake transporter permease protein	mscpx.1555
+Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3)	mscpx.587
+Cobalt-precorrin-3b C17-methyltransferase	mscpx.1516
+Cobalamin biosynthesis protein CbiG	mscpx.174
+Cobalamin biosynthesis protein CobG	mscpx.240
+Cobalt-precorrin-4 C11-methyltransferase (EC 2.1.1.133)	mscpx.798
+Cobalt-precorrin-6 synthase, anaerobic	mscpx.649
+Cobalt-precorrin-6y C5-methyltransferase (EC 2.1.1.-)	mscpx.738
+Cobalt-precorrin-6y C15-methyltransferase [decarboxylating] (EC 2.1.1.-)	mscpx.484
+Cobalt-precorrin-8x methylmutase (EC 5.4.1.2)	mscpx.582
+Cobyrinic acid A,C-diamide synthase	mscpx.1251
+Cob(I)alamin adenosyltransferase (EC 2.5.1.17)	mscpx.910
+Cobyric acid synthase	mscpx.1685
+L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)	mscpx.1239
+Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)	mscpx.739
+Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)	mscpx.500
+Alpha-ribazole-5'-phosphate phosphatase (EC 3.1.3.73)	mscpx.1215
+Cobalamin synthase	mscpx.1597
+5,6-dimethylbenzimidazole synthase, flavin destructase family	mscpx.1631
+Sirohydrochlorin cobaltochelatase (EC 4.99.1.3)	mscpx.586
+Precorrin-6A synthase (EC 2.1.1.152)	mscpx.599
+Cob(I)alamin adenosyltransferase PduO (EC 2.5.1.17)	mscpx.909
+Cob(II)alamin reductase	mscpx.425
+4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)	mscpx.1707
+Riboflavin kinase (EC 2.7.1.26)	mscpx.687
+FMN adenylyltransferase (EC 2.7.7.2)	mscpx.687
+DNA-directed RNA polymerase subunit F (EC 2.7.7.6)	mscpx.531
+Octaprenyl diphosphate synthase (EC 2.5.1.90)	mscpx.1582
+Octaprenyl diphosphate synthase (EC 2.5.1.90)	mscpx.1
+Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)	mscpx.1394
+Methylmalonyl-CoA decarboxylase, beta chain (EC 4.1.1.41)	mscpx.1392
+Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4)	mscpx.971
+Glutathione reductase (EC 1.8.1.7)	mscpx.1357
+Glutathione peroxidase (EC 1.11.1.9)	mscpx.1315
+CoA-acylating propionaldehyde dehydrogenase	mscpx.1735
+Pyridoxine biosynthesis glutamine amidotransferase, synthase subunit (EC 2.4.2.-)	mscpx.819
+Pyridoxine biosynthesis glutamine amidotransferase, glutaminase subunit (EC 2.4.2.-)	mscpx.818
+GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II	mscpx.681
+Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)	mscpx.737
+GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	mscpx.680
+Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type	mscpx.1765
+Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	mscpx.217
+Glutamate 5-kinase (EC 2.7.2.11)	mscpx.1204
+Indole-3-pyruvate decarboxylase (EC 4.1.1.74)	mscpx.1089
+Aromatic-L-amino-acid decarboxylase (EC 4.1.1.28)	mscpx.132
+Putative teichuronic acid biosynthesis glycosyl transferase TuaC	mscpx.732
+Teichuronic acid biosynthesis protein TuaB	mscpx.732
+Teichuronic acid biosynthesis protein TuaF	mscpx.732
+Putative N-acetylgalactosaminyl-diphosphoundecaprenol glucuronosyltransferase	mscpx.732
+Putative teichuronic acid biosynthesis glycosyl transferase TuaH	mscpx.732
+Teichuronic acid biosynthesis protein TuaE, putative secreted polysaccharide polymerase	mscpx.732
+4-hydroxy-2-oxovalerate aldolase (EC 4.1.3.-)	mscpx.589
+Gamma-glutamyl cyclotransferase (EC 2.3.2.4)	mscpx.1011
+5-oxoprolinase (EC 3.5.2.9)	mscpx.1708
+Membrane alanine aminopeptidase N (EC 3.4.11.2)	mscpx.48
+NAD-specific glutamate dehydrogenase (EC 1.4.1.2)	mscpx.1422
+Aspartate aminotransferase (EC 2.6.1.1)	mscpx.571
+Aspartate--ammonia ligase (EC 6.3.1.1)	mscpx.820
+Aspartate ammonia-lyase (EC 4.3.1.1)	mscpx.1441
+Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	mscpx.1543
+Glutamine synthetase (EC 6.3.1.2)	mscpx.313
+Glutamine synthetase type II, eukaryotic (EC 6.3.1.2)	mscpx.317
+Glutamine synthetase type III, GlnN (EC 6.3.1.2)	mscpx.315
+Putative glutamine synthetase, Rickettsiales type (EC 6.3.1.2)	mscpx.312
+Glutamine synthetase, clostridia type (EC 6.3.1.2)	mscpx.314
+NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form	mscpx.1421
+NAD-specific glutamate dehydrogenase (EC 1.4.1.2), eukaryotic type	mscpx.1423
+Glycogen biosynthesis protein GlgD, glucose-1-phosphate adenylyltransferase family	mscpx.1571
+Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	mscpx.1571
+Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)	mscpx.747
+Glycogen phosphorylase (EC 2.4.1.1)	mscpx.1600
+Maltodextrin phosphorylase (EC 2.4.1.1)	mscpx.71
+4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	mscpx.585
+Hexokinase (EC 2.7.1.1)	mscpx.908
+Glyceraldehyde-3-phosphate: ferredoxin oxidoreductase (EC 1.2.7.6)	mscpx.516
+NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	mscpx.1143
+Non-phosphorylating glyceraldehyde-3-phosphate dehydrogenase (NADP) (EC 1.2.1.9)	mscpx.1500
+Phosphoglycerate mutase (EC 5.4.2.1)	mscpx.1584
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1)	mscpx.1586
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase, archaeal type (EC 5.4.2.1)	mscpx.1587
+Enolase (EC 4.2.1.11)	mscpx.197
+Glucose 1-dehydrogenase (EC 1.1.1.47)	mscpx.1486
+Gluconolactonase (EC 3.1.1.17)	mscpx.981
+Gluconate dehydratase (EC 4.2.1.39)	mscpx.1152
+Aldose 1-epimerase (EC 5.1.3.3)	mscpx.714
+Altronate hydrolase (EC 4.2.1.7)	mscpx.445
+Glucose-1-phosphatase (EC 3.1.3.10)	mscpx.1689
+Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)	mscpx.1794
+Phosphoserine aminotransferase (EC 2.6.1.52)	mscpx.1240
+Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)	mscpx.1610
+Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)	mscpx.756
+Pyridoxal kinase (EC 2.7.1.35)	mscpx.74
+D-erythrose-4-phosphate dehydrogenase (EC 1.2.1.72)	mscpx.1174
+Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	mscpx.973
+2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)	mscpx.636
+Malate dehydrogenase (EC 1.1.1.37)	mscpx.144
+Fumarate hydratase class II (EC 4.2.1.2)	mscpx.1351
+Isocitrate dehydrogenase 3 subunit alpha, mitochondrial precursor (EC 1.1.1.41)	mscpx.1295
+Isocitrate dehydrogenase 3 subunit beta, mitochondrial precursor (EC 1.1.1.41)	mscpx.1296
+GDP-mannose 6-dehydrogenase (EC 1.1.1.132)	mscpx.686
+UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	mscpx.597
+N-acetylornithine carbamoyltransferase (EC 2.1.3.9)	mscpx.1775
+Acetylornithine aminotransferase 1 (EC 2.6.1.11)	mscpx.428
+Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)	mscpx.1870
+Maltodextrin glucosidase (EC 3.2.1.20)	mscpx.1675
+Alpha-glucosidase (EC 3.2.1.20)	mscpx.1674
+Oligo-1,6-glucosidase (EC 3.2.1.10)	mscpx.173
+Beta-phosphoglucomutase (EC 5.4.2.6)	mscpx.1450
+Maltose phosphorylase (EC 2.4.1.8)	mscpx.1613
+Maltose-6'-phosphate glucosidase (EC 3.2.1.122)	mscpx.423
+Maltose O-acetyltransferase (EC 2.3.1.79)	mscpx.1144
+Citrate lyase beta chain (EC 4.1.3.6)	mscpx.791
+Citrate lyase alpha chain (EC 4.1.3.6)	mscpx.792
+Citrate lyase gamma chain, acyl carrier protein (EC 4.1.3.6)	mscpx.793
+Citrate Succinate antiporter (TC 2.A.47.3.2)	mscpx.1325
+LSU ribosomal protein L32p	mscpx.519
+Phosphate:acyl-ACP acyltransferase PlsX	mscpx.9
+Phosphate:acyl-ACP acyltransferase PlsX	mscpx.447
+LSU ribosomal protein L1p (L10Ae)	mscpx.519
+LSU ribosomal protein L2p (L8e)	mscpx.519
+LSU ribosomal protein L3p (L3e)	mscpx.519
+LSU ribosomal protein L4p (L1e)	mscpx.519
+LSU ribosomal protein L5p (L11e)	mscpx.519
+LSU ribosomal protein L6p (L9e)	mscpx.519
+LSU ribosomal protein L10p (P0)	mscpx.519
+LSU ribosomal protein L13p (L13Ae)	mscpx.519
+LSU ribosomal protein L14p (L23e)	mscpx.519
+LSU ribosomal protein L15p (L27Ae)	mscpx.519
+LSU ribosomal protein L16p (L10e)	mscpx.519
+LSU ribosomal protein L17p	mscpx.519
+LSU ribosomal protein L18p (L5e)	mscpx.519
+LSU ribosomal protein L19p	mscpx.519
+LSU ribosomal protein L20p	mscpx.519
+LSU ribosomal protein L21p	mscpx.519
+LSU ribosomal protein L22p (L17e)	mscpx.519
+LSU ribosomal protein L23p (L23Ae)	mscpx.519
+LSU ribosomal protein L24p (L26e)	mscpx.519
+LSU ribosomal protein L27p	mscpx.519
+LSU ribosomal protein L29p (L35e)	mscpx.519
+LSU ribosomal protein L30p (L7e)	mscpx.519
+LSU ribosomal protein L31p	mscpx.519
+LSU ribosomal protein L33p	mscpx.519
+LSU ribosomal protein L34p	mscpx.519
+LSU ribosomal protein L35p	mscpx.519
+LSU ribosomal protein L36p	mscpx.519
+NG,NG-dimethylarginine dimethylaminohydrolase 1 (EC 3.5.3.18)	mscpx.1193
+Sulfate adenylyltransferase, dissimilatory-type (EC 2.7.7.4)	mscpx.434
+O-acetylhomoserine sulfhydrylase (EC 2.5.1.49)	mscpx.40
+Ferredoxin-NADP(+) reductase (EC 1.18.1.2)	mscpx.1457
+Acetoacetate decarboxylase (EC 4.1.1.4)	mscpx.1906
+NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	mscpx.1588
+NADH-dependent butanol dehydrogenase B (EC 1.1.1.-)	mscpx.1588
+Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	mscpx.605
+Pyrroline-5-carboxylate reductase (EC 1.5.1.2), ProG-like	mscpx.216
+SSU ribosomal protein S5p (S2e)	mscpx.519
+Spermidine N1-acetyltransferase (EC 2.3.1.57)	mscpx.188
+Benzoate 1,2-dioxygenase beta subunit (EC 1.14.12.10)	mscpx.1261
+Benzoate 1,2-dioxygenase alpha subunit (EC 1.14.12.10)	mscpx.1262
+Muconolactone isomerase (EC 5.3.3.4)	mscpx.349
+Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13 )	mscpx.816
+Fructokinase in mannoside utilization gene cluster (EC 2.7.1.4)	mscpx.884
+Galactitol-1-phosphate 5-dehydrogenase (EC 1.1.1.251)	mscpx.512
+Tagatose-6-phosphate kinase (EC 2.7.1.144)	mscpx.223
+L-fucose isomerase (EC 5.3.1.25)	mscpx.1427
+L-fuculokinase (EC 2.7.1.51)	mscpx.928
+L-fuculose phosphate aldolase (EC 4.1.2.17)	mscpx.1546
+4-oxalocrotonate tautomerase (EC 5.3.2.-)	mscpx.1424
+3-(3-hydroxy-phenyl)propionate hydroxylase (EC 1.14.13.-)	mscpx.446
+2-keto-4-pentenoate hydratase (EC 4.2.1.-)	mscpx.292
+2,3-dihydroxyphenylpropionate 1,2-dioxygenase (EC 1.13.11.-)	mscpx.1787
+2-hydroxy-6-ketonona-2,4-dienedioic acid hydrolase (EC 3.7.1.-)	mscpx.1168
+UDP-sugar hydrolase (EC 3.6.1.45)	mscpx.1238
+monoacylglycerol O-acyltransferase 1 (EC 2.3.1.22)	mscpx.377
+Diacylglycerol O-acyltransferase 1 (EC 2.3.1.20)	mscpx.379
+Triacylglycerol lipase (EC 3.1.1.3)	mscpx.1048
+Lysophospholipase (EC 3.1.1.5)	mscpx.34
+Phospholipase A1 precursor (EC 3.1.1.32, EC 3.1.1.4)	mscpx.195
+Triacylglycerol lipase precursor (EC 3.1.1.3)	mscpx.1716
+Adenosine deaminase (EC 3.5.4.4)	mscpx.362
+Cytochrome c oxidase polypeptide II (EC 1.9.3.1)	mscpx.1842
+Cytochrome c oxidase polypeptide II (EC 1.9.3.1)	mscpx.757
+Alternative cytochrome c oxidase polypeptide CoxN (EC 1.9.3.1)	mscpx.1841
+Alternative cytochrome c oxidase polypeptide CoxM (EC 1.9.3.1)	mscpx.1848
+Alternative cytochrome c oxidase polypeptide CoxO (EC 1.9.3.1)	mscpx.1847
+Alternative cytochrome c oxidase polypeptide CoxP (EC 1.9.3.1)	mscpx.1856
+cb-type cytochrome c oxidase subunit IV [EC:1.9.3.1]	mscpx.1840
+Cytochrome c oxidase polypeptide Va, mitochondrial precursor (EC 1.9.3.1)	mscpx.1845
+Cytochrome c oxidase polypeptide Vb, mitochondrial precursor (EC 1.9.3.1)	mscpx.1844
+Cytochrome c oxidase polypeptide VIIc, mitochondrial precursor (EC 1.9.3.1)	mscpx.1861
+Cytochrome c oxidase polypeptide VIa-liver, mitochondrial precursor (EC 1.9.3.1)	mscpx.1855
+Cytochrome c oxidase subunit 2a (EC 1.9.3.1)	mscpx.1854
+Cytochrome c oxidase polypeptide IIA (EC 1.9.3.1)	mscpx.1858
+Cytochrome c oxidase polypeptide IV(EC 1.9.3.1)	mscpx.1857
+D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)	mscpx.1282
+Polyhydroxyalkanoic acid synthase	mscpx.55
+D(-)-3-hydroxybutyrate oligomer hydrolase (EC 3.1.1.22)	mscpx.1010
+D-beta-hydroxybutyrate permease	mscpx.648
+Short chain fatty acids transporter	mscpx.367
+Butyrate-acetoacetate CoA-transferase subunit A (EC 2.8.3.9)	mscpx.1627
+Butyrate-acetoacetate CoA-transferase subunit A (EC 2.8.3.9)	mscpx.247
+Butyrate-acetoacetate CoA-transferase subunit B (EC 2.8.3.9)	mscpx.1628
+Butyrate-acetoacetate CoA-transferase subunit B (EC 2.8.3.9)	mscpx.247
+predicted N-acetylglucosamine kinase, glucokinase-like (EC 2.7.1.59)	mscpx.608
+SSU ribosomal protein S15p (S13e)	mscpx.519
+Fumarate reductase subunit C	mscpx.1803
+Fumarate reductase subunit C	mscpx.108
+Fumarate reductase subunit D	mscpx.1800
+Fumarate reductase subunit D	mscpx.108
+Fumarate hydratase class I (EC 4.2.1.2)	mscpx.1349
+UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	mscpx.1686
+Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)	mscpx.376
+Malonate decarboxylase alpha subunit	mscpx.1709
+Malonate decarboxylase beta subunit	mscpx.1709
+Malonate decarboxylase gamma subunit	mscpx.1709
+Malonate decarboxylase delta subunit	mscpx.1709
+Phosphoserine aminotransferase, putative (EC 2.6.1.52)	mscpx.1241
+Phosphoserine phosphatase (EC 3.1.3.3)	mscpx.1831
+Porphobilinogen deaminase (EC 2.5.1.61)	mscpx.1323
+Uroporphyrinogen-III synthase (EC 4.2.1.75)	mscpx.1632
+Precorrin-2 oxidase (EC 1.3.1.76)	mscpx.1036
+Sirohydrochlorin ferrochelatase (EC 4.99.1.4)	mscpx.194
+Uroporphyrinogen III decarboxylase (EC 4.1.1.37)	mscpx.858
+Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)	mscpx.1766
+Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)	mscpx.1505
+Protoporphyrinogen IX oxidase, oxygen-independent, HemG (EC 1.3.-.-)	mscpx.941
+Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)	mscpx.1501
+Aspartate carbamoyltransferase regulatory chain (PyrI)	mscpx.387
+Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	mscpx.474
+Pyrimidine operon regulatory protein PyrR	mscpx.871
+Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.-)	mscpx.1649
+Probable acyl-CoA dehydrogenase (EC 1.3.99.3)	mscpx.964
+Gluconate 2-dehydrogenase (EC 1.1.99.3), membrane-bound, flavoprotein	mscpx.1190
+Gluconate 2-dehydrogenase (EC 1.1.99.3), membrane-bound, cytochrome c	mscpx.1192
+Gluconate 2-dehydrogenase (EC 1.1.99.3), membrane-bound, gamma subunit	mscpx.1191
+2,5-diketo-D-gluconate reductase A (EC 1.1.1.274)	mscpx.1305
+2,5-diketo-D-gluconic acid reductase B (EC 1.1.1.274)	mscpx.1305
+oxidoreductase of aldo/keto reductase family, subgroup 1	mscpx.1060
+L-idonate 5-dehydrogenase (EC 1.1.1.264)	mscpx.43
+5-keto-D-gluconate 5-reductase (EC 1.1.1.69)	mscpx.1679
+Melibiose carrier protein, Na+/melibiose symporter	mscpx.1347
+Pyruvate:ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.1)	mscpx.1411
+Histidine ammonia-lyase (EC 4.3.1.3)	mscpx.1683
+Imidazolonepropionase (EC 3.5.2.7)	mscpx.493
+Formiminoglutamic iminohydrolase (EC 3.5.3.13)	mscpx.1272
+N-formylglutamate deformylase (EC 3.5.1.68)	mscpx.302
+N-formylglutamate deformylase (EC 3.5.1.68) [alternative form]	mscpx.303
+Formiminoglutamase (EC 3.5.3.8)	mscpx.1339
+Glutamate formiminotransferase (EC 2.1.2.5)	mscpx.751
+Phosphoglyceromutase	mscpx.1585
+Isocitrate lyase (EC 4.1.3.1)	mscpx.1897
+Methylmalonyl-CoA mutase (EC 5.4.99.2)	mscpx.1508
+Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)	mscpx.1054
+Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	mscpx.1385
+Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)	mscpx.1385
+Serine--pyruvate aminotransferase (EC 2.6.1.51)	mscpx.801
+Propionyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.3)	mscpx.1053
+Putative malate dehydrogenase (EC 1.1.1.37), similar to archaeal MJ1425	mscpx.143
+DNA-binding protein HBsu	mscpx.584
+Citrate synthase, mitochondrial precursor (EC 2.3.3.1)	mscpx.1368
+Malate dehydrogenase (EC 1.1.1.37), chloroplast precursor	mscpx.141
+Malate dehydrogenase (EC 1.1.1.37), mitochondrial precursor	mscpx.142
+4-Hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16)	mscpx.940
+SSU ribosomal protein S20p	mscpx.519
+DNA polymerase III delta subunit (EC 2.7.7.7)	mscpx.584
+Proline racemase (EC 5.1.1.4)	mscpx.790
+D-proline reductase, 45 kDa subunit (EC 1.21.4.1)	mscpx.881
+D-proline reductase, 23 kDa subunit (EC 1.21.4.1)	mscpx.882
+D-proline reductase, 26 kDa subunit (EC 1.21.4.1)	mscpx.880
+Similar to eukaryotic Peptidyl prolyl 4-hydroxylase, alpha subunit (EC 1.14.11.2)	mscpx.1824
+Peptidyl prolyl 4-hydroxylase, alpha subunit (EC 1.14.11.2)	mscpx.1823
+Quinate/shikimate dehydrogenase [Pyrroloquinoline-quinone] (EC 1.1.99.25)	mscpx.645
+3-dehydroquinate dehydratase (EC 4.2.1.10)	mscpx.699
+3-dehydroshikimate dehydratase	mscpx.1636
+Phosphoserine phosphatase rsbX (EC 3.1.3.3)	mscpx.1648
+Transketolase, C-terminal section (EC 2.2.1.1)	mscpx.326
+Transketolase, N-terminal section (EC 2.2.1.1)	mscpx.327
+Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)	mscpx.1829
+Choline-glycine betaine transporter	mscpx.129
+Topoisomerase IV subunit A (EC 5.99.1.-)	mscpx.584
+Topoisomerase IV subunit B (EC 5.99.1.-)	mscpx.584
+DNA gyrase subunit A (EC 5.99.1.3)	mscpx.584
+Homoserine dehydrogenase (EC 1.1.1.3)	mscpx.146
+Homoserine O-succinyltransferase (EC 2.3.1.46)	mscpx.1029
+Homoserine O-acetyltransferase (EC 2.3.1.31)	mscpx.1302
+Cystathionine gamma-synthase (EC 2.5.1.48)	mscpx.168
+Cystathionine beta-lyase (EC 4.4.1.8)	mscpx.1245
+5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)	mscpx.127
+Betaine--homocysteine S-methyltransferase (EC 2.1.1.5)	mscpx.901
+Methionine synthase activation domain (EC 2.1.1.13)	mscpx.685
+Archaeal S-adenosylmethionine synthetase (EC 2.5.1.6)	mscpx.1451
+SAM-dependent methlytransferase YrrT	mscpx.622
+SAM-dependent methlytransferase UbiG	mscpx.623
+S-ribosylhomocysteine lyase (EC 4.4.1.21)	mscpx.355
+Homocysteine S-methyltransferase (EC 2.1.1.10)	mscpx.1643
+O-succinylhomoserine sulfhydrylase (EC 4.2.99.9)	mscpx.1515
+Cystathionine beta-lyase, type II (EC 4.4.1.8)	mscpx.1246
+SSU ribosomal protein S3p (S3e)	mscpx.519
+SSU ribosomal protein S6p	mscpx.519
+SSU ribosomal protein S7p (S5e)	mscpx.519
+SSU ribosomal protein S8p (S15Ae)	mscpx.519
+SSU ribosomal protein S9p (S16e)	mscpx.519
+SSU ribosomal protein S10p (S20e)	mscpx.519
+SSU ribosomal protein S11p (S14e)	mscpx.519
+SSU ribosomal protein S13p (S18e)	mscpx.519
+SSU ribosomal protein S14p (S29e)	mscpx.519
+SSU ribosomal protein S16p	mscpx.519
+SSU ribosomal protein S17p (S11e)	mscpx.519
+SSU ribosomal protein S18p	mscpx.519
+SSU ribosomal protein S19p (S15e)	mscpx.519
+Sulfur carrier protein ThiS	mscpx.404
+Thiazole biosynthesis protein ThiG	mscpx.77
+Thiazole biosynthesis protein ThiG	mscpx.404
+Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)	mscpx.573
+Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)	mscpx.853
+Hydroxyethylthiazole kinase (EC 2.7.1.50)	mscpx.1807
+Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety	mscpx.710
+6-phosphofructokinase class II (EC 2.7.1.11)	mscpx.494
+Pyrophosphate--fructose 6-phosphate 1-phosphotransferase, alpha subunit (EC 2.7.1.90)	mscpx.226
+Pyrophosphate--fructose 6-phosphate 1-phosphotransferase, beta subunit (EC 2.7.1.90)	mscpx.225
+Fructose-1,6-bisphosphatase, Bacillus type (EC 3.1.3.11)	mscpx.1520
+Triosephosphate isomerase (EC 5.3.1.1)	mscpx.1809
+NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13)	mscpx.839
+Adenylate kinase (EC 2.7.4.3)	mscpx.811
+Phosphatidate cytidylyltransferase (EC 2.7.7.41)	mscpx.209
+D-alanine--D-alanine ligase (EC 6.3.2.4)	mscpx.1884
+Helicase loader DnaI	mscpx.584
+Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	mscpx.1329
+DNA polymerase III delta prime subunit (EC 2.7.7.7)	mscpx.584
+Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	mscpx.1511
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	mscpx.610
+UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)	mscpx.1818
+UDP-N-acetylmuramate--alanine ligase (EC 6.3.2.8)	mscpx.545
+UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)	mscpx.1153
+UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D- alanyl ligase (EC 6.3.2.10)	mscpx.154
+UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)	mscpx.655
+DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)	mscpx.540
+DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)	mscpx.1056
+DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	mscpx.1056
+DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	mscpx.542
+DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	mscpx.537
+DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	mscpx.1056
+Thioredoxin	mscpx.988
+PTS system, lactose-specific IIB component (EC 2.7.1.69)	mscpx.452
+PTS system, lactose-specific IIC component (EC 2.7.1.69)	mscpx.450
+6-phospho-beta-galactosidase (EC 3.2.1.85)	mscpx.351
+Galactose-6-phosphate isomerase, LacA subunit (EC 5.3.1.26)	mscpx.421
+Galactose-6-phosphate isomerase, LacB subunit (EC 5.3.1.26)	mscpx.422
+Lactose permease	mscpx.1670
+Galactokinase (EC 2.7.1.6)	mscpx.770
+Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	mscpx.583
+Malate:quinone oxidoreductase (EC 1.1.5.4)	mscpx.771
+Isocitrate dehydrogenase [NAD] subunit I, mitochondrial precursor (EC 1.1.1.41)	mscpx.1300
+Isocitrate dehydrogenase [NAD] subunit II, mitochondrial precursor (EC 1.1.1.41)	mscpx.1301
+Isocitrate dehydrogenase 3 subunit gamma, mitochondrial precursor (EC 1.1.1.41)	mscpx.1299
+Succinyl-CoA ligase [GDP-forming] alpha chain (EC 6.2.1.4)	mscpx.184
+Succinyl-CoA ligase [GDP-forming] beta chain (EC 6.2.1.4)	mscpx.106
+2-oxoglutarate oxidoreductase, gamma subunit (EC 1.2.7.3)	mscpx.1740
+2-oxoglutarate oxidoreductase, beta subunit (EC 1.2.7.3)	mscpx.1741
+2-oxoglutarate oxidoreductase, alpha subunit (EC 1.2.7.3)	mscpx.1739
+2-oxoglutarate oxidoreductase, delta subunit, putative (EC 1.2.7.3)	mscpx.1742
+Aconitate hydratase small subunit (EC 4.2.1.3)	mscpx.720
+Aconitate hydratase small subunit (EC 4.2.1.3)	mscpx.1145
+Aconitate hydratase large subunit (EC 4.2.1.3)	mscpx.718
+Aconitate hydratase large subunit (EC 4.2.1.3)	mscpx.1145
+Potassium efflux system KefA protein	mscpx.1442
+Glycerol dehydratase large subunit (EC 4.2.1.30)	mscpx.177
+Glycerol dehydratase medium subunit (EC 4.2.1.30)	mscpx.176
+Glycerol dehydratase small subunit (EC 4.2.1.30)	mscpx.178
+1,3-propanediol dehydrogenase (EC 1.1.1.202)	mscpx.929
+Dihydroxyacetone kinase, ATP-dependent (EC 2.7.1.29)	mscpx.83
+Tryptophan 2-monooxygenase (EC 1.13.12.3)	mscpx.1455
+Indoleacetamide hydrolase (EC 3.5.1.-)	mscpx.1106
+Tryptophanase (EC 4.1.99.1)	mscpx.1396
+Pyrimidine deaminase archaeal predicted (EC 3.5.4.26)	mscpx.1028
+Allantoin permease	mscpx.1813
+Shikimate kinase III (EC 2.7.1.71)	mscpx.1439
+Chorismate mutase (EC 5.4.99.5)	mscpx.1495
+Threonine synthase (EC 4.2.3.1)	mscpx.564
+Xanthine dehydrogenase, iron-sulfur cluster and FAD-binding subunit A (1.17.1.4)	mscpx.977
+Xanthine oxidase (EC 1.17.3.2)	mscpx.915
+Uricase (EC 1.7.3.3)	mscpx.563
+Periplasmic aromatic aldehyde oxidoreductase, FAD binding subunit YagS	mscpx.978
+Allantoin racemase (EC 5.1.99.3)	mscpx.1211
+DNA-directed RNA polymerase gamma subunit (EC 2.7.7.6)	mscpx.528
+DNA-directed RNA polymerase delta (= beta'') subunit (EC 2.7.7.6)	mscpx.524
+DNA-directed RNA polymerase delta subunit (EC 2.7.7.6)	mscpx.532
+Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)	mscpx.150
+Riboflavin synthase archaeal (EC 2.5.1.9)	mscpx.151
+3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)	mscpx.1340
+Adenylate cyclase (EC 4.6.1.1)	mscpx.1564
+Trehalose-6-phosphate hydrolase (EC 3.2.1.93)	mscpx.921
+Trehalase (EC 3.2.1.28)	mscpx.876
+Cytoplasmic trehalase (EC 3.2.1.28)	mscpx.877
+Trehalose 6-phosphate phosphorylase (EC 2.4.1.216)	mscpx.424
+Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26)	mscpx.1026
+5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)	mscpx.1026
+5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)	mscpx.548
+6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)	mscpx.1332
+2,5-diamino-6-ribitylamino-pyrimidinone 5-phosphate deaminase, fungal (EC 3.5.4.-)	mscpx.1027
+Aldehyde dehydrogenase B (EC 1.2.1.22)	mscpx.398
+NADPH-dependent methylglyoxal reductase (D-lactaldehyde dehydrogenase)	mscpx.175
+Succinate dehydrogenase cytochrome b-556 subunit	mscpx.744
+Succinate dehydrogenase cytochrome b-556 subunit	mscpx.271
+Succinate dehydrogenase cytochrome b-556 subunit	mscpx.108
+Succinate dehydrogenase hydrophobic membrane anchor protein	mscpx.108
+Succinate dehydrogenase hydrophobic membrane anchor protein	mscpx.646
+Succinate dehydrogenase cytochrome b subunit	mscpx.744
+Succinate dehydrogenase cytochrome b subunit	mscpx.272
+Putative succinate dehydrogenase cytochrome b subunit	mscpx.744
+Putative succinate dehydrogenase cytochrome b subunit	mscpx.279
+Fumarate reductase cytochrome b subunit	mscpx.1801
+Succinate dehydrogenase cytochrome b560 subunit	mscpx.744
+Succinate dehydrogenase cytochrome b560 subunit	mscpx.281
+Fumarate reductase flavoprotein subunit (EC 1.3.99.1)	mscpx.1802
+Fumarate reductase flavoprotein subunit (EC 1.3.99.1)	mscpx.108
+Glutamate-pyruvate aminotransferase (EC 2.6.1.2)	mscpx.1838
+Cysteine desulfurase, mitochondrial precursor (EC 2.8.1.7)	mscpx.886
+Solanesyl diphosphate synthase (EC 2.5.1.11)	mscpx.2
+Dehydrosqualene desaturase (EC 1.14.99.-) (Diapophytoene desaturase) (4,4'-diapophytoene desaturase)	mscpx.1283
+15,16-dihydrobiliverdin:ferredoxin oxidoreductase PebA (EC 1.3.7.2)	mscpx.378
+Phycoerythrobilin:ferredoxin oxidoreductase PebB (EC 1.3.7.3)	mscpx.305
+Phycocyanobilin:ferredoxin oxidoreductase PcyA (EC 1.3.7.5)	mscpx.1176
+Biliverdin reductase (EC 1.3.1.24)	mscpx.196
+Phytochromobilin:ferredoxin oxidoreductase (EC 1.3.7.4)	mscpx.569
+Protocatechuate 3,4-dioxygenase beta chain (EC 1.13.11.3)	mscpx.1258
+Protocatechuate 3,4-dioxygenase alpha chain (EC 1.13.11.3)	mscpx.1257
+3-carboxy-cis,cis-muconate cycloisomerase (EC 5.5.1.2)	mscpx.1355
+4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	mscpx.31
+Chloride channel protein	mscpx.1268
+Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), dihydroxyacetone binding subunit DhaK	mscpx.1141
+Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), ADP-binding subunit DhaL	mscpx.1139
+Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), subunit DhaM	mscpx.1138
+DHA-specific IIA component	mscpx.1134
+DHA-specific phosphocarrier protein HPr	mscpx.1140
+DHA-specific EI component	mscpx.1135
+Putative dihydroxyacetone kinase (EC 2.7.1.29), dihydroxyacetone binding subunit	mscpx.85
+Putative dihydroxyacetone kinase (EC 2.7.1.29), ADP-binding subunit	mscpx.84
+Phenylacetate-coenzyme A ligase (EC 6.2.1.30) PaaF	mscpx.166
+Phenylacetaldehyde dehydrogenase (EC 1.2.1.39)	mscpx.1483
+GDP-L-fucose synthetase (EC 1.1.1.271)	mscpx.186
+L-serine dehydratase 1 (EC 4.3.1.17)	mscpx.324
+Lysine decarboxylase 2, constitutive (EC 4.1.1.18)	mscpx.1188
+Lysine decarboxylase, inducible (EC 4.1.1.18)	mscpx.1187
+Lysine/cadaverine antiporter membrane protein CadB	mscpx.162
+Lysine 2-monooxygenase (EC 1.13.12.2)	mscpx.220
+5-aminopentanamidase (EC 3.5.1.30)	mscpx.1328
+5-aminovalerate aminotransferase (EC 2.6.1.48)	mscpx.1784
+Glutarate-semialdehyde dehydrogenase (EC 1.2.1.20)	mscpx.1014
+Delta 1-piperideine-2-carboxylate reductase (EC 1.5.1.21)	mscpx.796
+L-pipecolate dehydrogenase (EC 1.5.99.3)	mscpx.1791
+L-pipecolate oxidase (1.5.3.7)	mscpx.1498
+Lysine 2,3-aminomutase (EC 5.4.3.2)	mscpx.170
+L-beta-lysine 5,6-aminomutase alpha subunit (EC 5.4.3.3)	mscpx.1681
+L-beta-lysine 5,6-aminomutase beta subunit (EC 5.4.3.3)	mscpx.1680
+Lysine ketoglutarate reductase (EC 1.5.1.8) (LOR) (LKR)	mscpx.1499
+Saccharopine dehydrogenase (EC 1.5.1.9)	mscpx.1108
+Sorbitol-6-phosphate 2-dehydrogenase (EC 1.1.1.140)	mscpx.1050
+GTP pyrophosphokinase (EC 2.7.6.5)	mscpx.682
+N-acetylglucosamine-1-phosphate uridyltransferase eukaryotic (EC 2.7.7.23)	mscpx.1593
+D-alanine--D-alanine ligase A (EC 6.3.2.4)	mscpx.1885
+D-alanine--D-alanine ligase B (EC 6.3.2.4)	mscpx.1883
+Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)	mscpx.1163
+Phosphoribosylamine--glycine ligase (EC 6.3.4.13)	mscpx.1700
+Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)	mscpx.1433
+Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)	mscpx.1100
+Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)	mscpx.1100
+Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)	mscpx.1100
+Phosphoribosylaminoimidazole carboxylase catalytic subunit (EC 4.1.1.21)	mscpx.1491
+Phosphoribosylaminoimidazole carboxylase catalytic subunit (EC 4.1.1.21)	mscpx.167
+Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	mscpx.1490
+Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	mscpx.167
+Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)	mscpx.932
+Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	mscpx.574
+IMP cyclohydrolase (EC 3.5.4.10)	mscpx.574
+Phosphoribosylaminoimidazolecarboxamide formyltransferase [alternate form]	mscpx.782
+Deoxyribose-phosphate aldolase (EC 4.1.2.4)	mscpx.1591
+Ferredoxin--sulfite reductase, actinobacterial type (EC 1.8.7.1)	mscpx.1311
+Ferredoxin--NADP(+) reductase, actinobacterial (eukaryote-like) type (EC 1.18.1.2)	mscpx.1458
+Ferredoxin--sulfite reductase (EC 1.8.7.1)	mscpx.1310
+Ferredoxin--sulfite reductase, bacillial type (EC 1.8.7.1)	mscpx.1309
+Phosphosulfolactate synthase (EC 4.4.1.19)	mscpx.242
+Glutathionylspermidine synthase (EC 6.3.1.8)	mscpx.1195
+Glutathionylspermidine amidohydrolase (EC 3.5.1.78)	mscpx.1549
+Glucosamine 6-phosphate N-acetyltransferase (EC 2.3.1.4)	mscpx.255
+Phosphoacetylglucosamine mutase (EC 5.4.2.3)	mscpx.702
+Hydroxyaromatic non-oxidative decarboxylase protein B (EC 4.1.1.-)	mscpx.1431
+Protoporphyrin IX Mg-chelatase subunit D (EC 6.6.1.1)	mscpx.125
+Protoporphyrin IX Mg-chelatase subunit H (EC 6.6.1.1)	mscpx.124
+Protoporphyrin IX Mg-chelatase subunit I (EC 6.6.1.1)	mscpx.123
+Mg-protoporphyrin O-methyltransferase (EC 2.1.1.11)	mscpx.1304
+Mg-protoporphyrin IX monomethyl ester oxidative cyclase (anaerobic) (EC 1.14.13.81)	mscpx.418
+Mg protoporphyrin IX monomethyl ester oxidative cyclase (aerobic) (EC 1.14.13.81)	mscpx.510
+Protein BchJ, involved in reduction of C-8 vinyl of divinyl protochlorophyllide	mscpx.855
+Divinyl protochlorophyllide a 8-vinyl-reductase (EC 1.3.1.75)	mscpx.1148
+Light-independent protochlorophyllide reductase iron-sulfur ATP-binding protein ChlL (EC 1.18.-.-)	mscpx.805
+Light-independent protochlorophyllide reductase subunit N (EC 1.18.-.-)	mscpx.803
+Light-independent protochlorophyllide reductase subunit B (EC 1.18.-.-)	mscpx.804
+Light-dependent protochlorophyllide reductase (EC 1.3.1.33)	mscpx.602
+Chlorophyll a synthase ChlG (EC 2.5.1.62)	mscpx.1111
+Peptidase B (EC 3.4.11.23)	mscpx.51
+Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific)	mscpx.47
+Asp-X dipeptidase	mscpx.52
+Inositol-1-phosphate synthase (EC 5.5.1.4)	mscpx.1478
+Inositol-1-monophosphatase (EC 3.1.3.25)	mscpx.139
+TcuA: flavoprotein used to oxidize tricarballylate to cis-aconitate	mscpx.1002
+TcuB: works with TcuA to oxidize tricarballylate to cis-aconitate	mscpx.1002
+Acetaldehyde dehydrogenase (acetylating) (EC 1.2.1.10)	mscpx.712
+NADPH-dependent butanol dehydrogenase (EC 1.1.1.-)	mscpx.481
+Biotin sulfoxide reductase (EC 1.-.-.-)	mscpx.634
+Phosphoglucomutase (EC 5.4.2.2)	mscpx.472
+Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)	mscpx.11
+Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY	mscpx.447
+Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY	mscpx.10
+Diacylglycerol kinase (EC 2.7.1.107)	mscpx.181
+CDP-diacylglycerol pyrophosphatase (EC 3.6.1.26)	mscpx.383
+CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)	mscpx.192
+Phosphatidylglycerophosphatase A (EC 3.1.3.27)	mscpx.171
+Phosphatidylglycerophosphatase B (EC 3.1.3.27)	mscpx.172
+Cardiolipin synthetase (EC 2.7.8.-)	mscpx.301
+Ubiquinol-cytochrome C reductase complex 14 kDa protein (EC 1.10.2.2)	mscpx.274
+Ubiquinol-cytochrome C reductase complex 14 kDa protein (EC 1.10.2.2)	mscpx.745
+Ubiquinol-cytochrome C reductase complex 7.2 kDa protein (EC 1.10.2.2)	mscpx.275
+Ubiquinol-cytochrome C reductase complex 7.2 kDa protein (EC 1.10.2.2)	mscpx.745
+Ubiquinol-cytochrome C reductase complex core protein I, mitochondrial precursor (EC 1.10.2.2)	mscpx.745
+Ubiquinol-cytochrome C reductase complex core protein I, mitochondrial precursor (EC 1.10.2.2)	mscpx.265
+Ubiquinol-cytochrome C reductase complex 11 kDa protein, mitochondrial precursor (EC 1.10.2.2)	mscpx.266
+Ubiquinol-cytochrome C reductase complex 11 kDa protein, mitochondrial precursor (EC 1.10.2.2)	mscpx.745
+Ubiquinol-cytochrome C reductase complex 8.5 kDa protein (EC 1.10.2.2)	mscpx.280
+Ubiquinol-cytochrome C reductase complex 8.5 kDa protein (EC 1.10.2.2)	mscpx.745
+Ubiquinol-cytochrome C reductase complex 6.3 kDa protein (EC 1.10.2.2)	mscpx.745
+Ubiquinol-cytochrome C reductase complex 6.3 kDa protein (EC 1.10.2.2)	mscpx.264
+Ubiquinol-cytochrome C reductase complex 6.4 kDa protein (EC 1.10.2.2)	mscpx.277
+Ubiquinol-cytochrome C reductase complex 6.4 kDa protein (EC 1.10.2.2)	mscpx.745
+DNA-directed RNA polymerase subunit A (EC 2.7.7.6)	mscpx.541
+DNA-directed RNA polymerase subunit A' (EC 2.7.7.6)	mscpx.529
+DNA-directed RNA polymerase subunit A'' (EC 2.7.7.6)	mscpx.533
+DNA-directed RNA polymerase subunit B (EC 2.7.7.6)	mscpx.520
+DNA-directed RNA polymerase subunit B'' (EC 2.7.7.6)	mscpx.521
+DNA-directed RNA polymerase subunit B' (EC 2.7.7.6)	mscpx.530
+DNA-directed RNA polymerase subunit D (EC 2.7.7.6)	mscpx.522
+DNA-directed RNA polymerase subunit E' (EC 2.7.7.6)	mscpx.534
+DNA-directed RNA polymerase subunit E''	mscpx.536
+DNA-directed RNA polymerase subunit H (EC 2.7.7.6)	mscpx.526
+DNA-directed RNA polymerase subunit K (EC 2.7.7.6)	mscpx.527
+DNA-directed RNA polymerase subunit L (EC 2.7.7.6)	mscpx.523
+DNA-directed RNA polymerase subunit N (EC 2.7.7.6)	mscpx.538
+DNA-directed RNA polymerase subunit P (EC 2.7.7.6)	mscpx.539
+Myo-inositol 2-dehydrogenase (EC 1.1.1.18)	mscpx.161
+Inosose dehydratase (EC 4.2.1.44)	mscpx.1008
+5-keto-2-deoxygluconokinase (EC 2.7.1.92)	mscpx.865
+5-keto-2-deoxy-D-gluconate-6 phosphate aldolase (EC 4.1.2.29)	mscpx.1786
+5-keto-2-deoxy-D-gluconate-6 phosphate aldolase [form 2] (EC 4.1.2.29)	mscpx.1785
+Methylmalonate-semialdehyde dehydrogenase [inositol] (EC 1.2.1.27)	mscpx.296
+Glyceraldehyde-3-phosphate ketol-isomerase (EC 5.3.1.1)	mscpx.1808
+Inositol oxygenase (EC 1.13.99.1)	mscpx.1589
+Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)	mscpx.936
+Dimethylallyltransferase (EC 2.5.1.1)	mscpx.1582
+GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	mscpx.1155
+Fructose-1,6-bisphosphatase, type V, archaeal (EC 3.1.3.11)	mscpx.1518
+NAD(P)-dependent glyceraldehyde 3-phosphate dehydrogenase archaeal (EC 1.2.1.59)	mscpx.837
+Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	mscpx.1223
+Propanediol dehydratase large subunit (EC 4.2.1.28)	mscpx.553
+Propanediol dehydratase medium subunit (EC 4.2.1.28)	mscpx.555
+Propanediol dehydratase small subunit (EC 4.2.1.28)	mscpx.554
+Putative iron-containing NADPH-dependent propanol dehydrogenase	mscpx.1788
+Propionate kinase, propanediol utilization (EC 2.7.2.1)	mscpx.1638
+Altronate oxidoreductase (EC 1.1.1.58)	mscpx.766
+3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85) (L-ascorbate utilization protein D)	mscpx.449
+L-ribulose-5-phosphate 3-epimerase UlaE (EC 5.1.3.22) (L-ascorbate utilization protein E)	mscpx.1874
+3-dehydro-L-gulonate 2-dehydrogenase (EC 1.1.1.130)	mscpx.834
+Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)	mscpx.1704
+Dethiobiotin synthetase (EC 6.3.3.3)	mscpx.1617
+Pimeloyl-CoA synthase (EC 6.2.1.14)	mscpx.859
+Pyruvate:ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.1)	mscpx.1414
+Pyruvate:ferredoxin oxidoreductase, beta subunit (EC 1.2.7.1)	mscpx.1413
+Pyruvate:ferredoxin oxidoreductase, delta subunit (EC 1.2.7.1)	mscpx.1415
+Pyruvate:ferredoxin oxidoreductase, porE subunit (EC 1.2.7.1)	mscpx.1417
+Pyruvate:ferredoxin oxidoreductase, porF subunit (EC 1.2.7.1)	mscpx.1412
+Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4)	mscpx.390
+Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4)	mscpx.832
+Nitrite reductase [NAD(P)H] small subunit (EC 1.7.1.4)	mscpx.1504
+Nitrite reductase [NAD(P)H] small subunit (EC 1.7.1.4)	mscpx.832
+Nitrite reductase probable [NAD(P)H] subunit (EC 1.7.1.4)	mscpx.831
+Nitrite reductase probable electron transfer 4Fe-S subunit (EC 1.7.1.4)	mscpx.830
+Ferredoxin--nitrite reductase (EC 1.7.7.1)	mscpx.1366
+Assimilatory nitrate reductase large subunit (EC:1.7.99.4)	mscpx.391
+Assimilatory nitrate reductase large subunit (EC:1.7.99.4)	mscpx.832
+Respiratory nitrate reductase subunit, conjectural (EC 1.7.99.4)	mscpx.394
+Hexose phosphate transport protein UhpT	mscpx.552
+Propionyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.3)	mscpx.1051
+Methylmalonyl-CoA epimerase (EC 5.1.99.1)	mscpx.1892
+Glycine oxidase ThiO (EC 1.4.3.19)	mscpx.381
+Sulfur carrier protein adenylyltransferase ThiF	mscpx.404
+Sulfur carrier protein adenylyltransferase ThiF	mscpx.8
+Thiamin-phosphate synthase ThiN (EC 2.5.1.3)	mscpx.852
+Thiamine-monophosphate kinase (EC 2.7.4.16)	mscpx.1705
+Thiamin ABC transporter, transmembrane component	mscpx.1777
+Additional substrate-binding component of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine	mscpx.1778
+Thiamine kinase (EC 2.7.1.89)	mscpx.1805
+Spermidine synthase (EC 2.5.1.16)	mscpx.300
+Spermine synthase (EC 2.5.1.22)	mscpx.1756
+S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A	mscpx.1473
+S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1B	mscpx.1475
+S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), eukaryotic	mscpx.1474
+Benzoate 1,2-dioxygenase (EC 1.14.12.10)	mscpx.1263
+Acetyl-CoA C-acyltransferase (EC 2.3.1.16)	mscpx.1871
+N-succinyldiaminopimelate aminotransferase (EC 2.6.1.17)	mscpx.1774
+Long-chain fatty acid transport protein	mscpx.1125
+Ethanolamine ammonia-lyase heavy chain (EC 4.3.1.7)	mscpx.961
+Ethanolamine ammonia-lyase light chain (EC 4.3.1.7)	mscpx.962
+D-xylose proton-symporter XylT	mscpx.1035
+D-xylose proton-symporter XylE	mscpx.1035
+Xyloside transporter XynT	mscpx.1034
+D-xylose 1-dehydrogenase (EC 1.1.1.175)	mscpx.1875
+Xylonolactonase (EC 3.1.1.68)	mscpx.1197
+Xylonate dehydratase (EC 4.2.1.82)	mscpx.227
+Malonate transporter, MadL subunit	mscpx.1759
+Malonate transporter, MadM subunit	mscpx.1759
+Malonyl CoA acyl carrier protein transacylase (EC 2.3.1.39)	mscpx.1709
+Triphosphoribosyl-dephospho-CoA synthetase (EC 2.7.8.25)	mscpx.1709
+Phosphoribosyl-dephospho-CoA transferase (EC 2.7.7.-)	mscpx.1709
+Sedoheptulose-1,7-bisphosphatase (EC 3.1.3.37)	mscpx.345
+Trans-aconitate 2-methyltransferase (EC 2.1.1.144)	mscpx.1487
+D-galactonate transporter	mscpx.802
+Galactonate dehydratase (EC 4.2.1.6)	mscpx.1120
+2-dehydro-3-deoxygalactonokinase (EC 2.7.1.58)	mscpx.1338
+2-dehydro-3-deoxyphosphogalactonate aldolase (EC 4.1.2.21)	mscpx.254
+GMP reductase (EC 1.7.1.7)	mscpx.1363
+Deoxyadenosine kinase (EC 2.7.1.76)	mscpx.628
+Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22)	mscpx.607
+Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	mscpx.1118
+AMP nucleosidase (EC 3.2.2.4)	mscpx.1374
+Inosine-guanosine kinase (EC 2.7.1.73)	mscpx.350
+Adenine deaminase (EC 3.5.4.2)	mscpx.1331
+Xanthine phosphoribosyltransferase (EC 2.4.2.22)	mscpx.1798
+Adenosine kinase (EC 2.7.1.20)	mscpx.862
+putative Adenosine kinase (EC 2.7.1.20)	mscpx.861
+Isoaspartyl aminopeptidase (EC 3.4.19.5)	mscpx.50
+Ornithine transporter	mscpx.86
+UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase (EC 6.3.2.10)	mscpx.155
+NADH oxidase (EC 1.6.99.3)	mscpx.308
+Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)	mscpx.348
+Spermidine Putrescine ABC transporter permease component PotB (TC 3.A.1.11.1)	mscpx.348
+ABC transporter, periplasmic spermidine putrescine-binding protein PotD (TC 3.A.1.11.1)	mscpx.348
+Copper amine oxidase	mscpx.491
+Epi-inositol hydrolase (EC 3.7.1.-)	mscpx.504
+Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-)	mscpx.513
+Deoxyadenosine kinase (EC 2.7.1.76) / Deoxyguanosine kinase (EC 2.7.1.113)	mscpx.629
+L-carnitine/gamma-butyrobetaine antiporter	mscpx.734
+spermidine/putrescine ABC transporter permease protein	mscpx.740
+Mannose-6-phosphate isomerase, class I (EC 5.3.1.8)	mscpx.749
+Pantoate kinase, archaeal (EC 2.7.1.-)	mscpx.759
+Putative alanine/glycine transport protein	mscpx.776
+D-alanine glycine permease DagA	mscpx.775
+D-alanine glycine permease DagA	mscpx.1758
+Cysteine ABC transporter, substrate-binding protein	mscpx.810
+5-deoxy-glucuronate isomerase (EC 5.3.1.-)	mscpx.865
+5-deoxy-glucuronate isomerase (EC 5.3.1.-)	mscpx.1070
+L-proline glycine betaine ABC transport system permease protein ProV (TC 3.A.1.12.1)	mscpx.904
+Sodium:alanine symporter family protein	mscpx.1076
+Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	mscpx.1085
+Nitrogenase (iron-iron) reductase and maturation protein AnfH	mscpx.1082
+Alpha-arabinosides ABC transport system, permease protein AraN	mscpx.1123
+Glutamine ABC transporter, ATP-binding protein GlnQ	mscpx.1127
+Glutathionylspermidine synthase (EC 6.3.1.8) / Glutathionylspermidine amidohydrolase (EC 3.5.1.78)	mscpx.1194
+Galactose-proton symport	mscpx.1206
+Biotin carboxylase (EC 6.3.4.14)	mscpx.1216
+LSU ribosomal protein L7/L12 (P1/P2)	mscpx.519
+Alpha-ketoglutarate permease	mscpx.1267
+Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)	mscpx.1286
+Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)	mscpx.1286
+Methylmalonyl-CoA decarboxylase (EC 4.1.1.41)	mscpx.1393
+Proline/betaine transporter ProP	mscpx.1476
+Cytosine permease	mscpx.1506
+Ferrous iron transport periplasmic protein EfeO, contains peptidase-M75 domain and (frequently) cupredoxin-like domain	mscpx.1529
+dCMP deaminase (EC 3.5.4.12)	mscpx.1536
+Geranyltranstransferase (farnesyldiphosphate synthase) (EC 2.5.1.10)	mscpx.1581
+Probable L-ascorbate-6-phosphate lactonase UlaG (EC 3.1.1.-) (L-ascorbate utilization protein G)	mscpx.1596
+Crotonobetainyl-CoA:carnitine CoA-transferase (EC 2.8.3.-)	mscpx.1634
+NA+/H+ antiporter NapA	mscpx.1656
+Na(+)-linked D-alanine glycine permease	mscpx.1666
+tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25)	mscpx.1056
+Nitrite extrusion protein NarK	mscpx.1684
+Threonine kinase in B12 biosynthesis	mscpx.1695
+Predicted glycolate dehydrogenase, 2-subunit type (EC 1.1.99.14), iron-sulfur subunit GlcF	mscpx.1745
+Ni,Fe-hydrogenase III medium subunit	mscpx.1827
+Formate hydrogenlyase complex 3 iron-sulfur protein	mscpx.1827
+Glutamate-aspartate carrier protein	mscpx.1900
+Putative cytochrome d ubiquinol oxidase subunit III (EC 1.10.3.-) (Cytochrome bd-I oxidase subunit III)	mscpx.1909
+cytochrome bd-I oxidase subunit I	mscpx.1909
+cytochrome bd-I oxidase subunit II	mscpx.1909
+Cytochrome bd-type quinol oxidase, subunit 1	mscpx.1909
+Cytochrome bd-I oxidase subunit III	mscpx.1909
