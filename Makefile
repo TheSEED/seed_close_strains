@@ -6,6 +6,9 @@ TARGET ?= /kb/deployment
 
 APP_SERVICE = app_service
 
+SRC_CGI_PERL = $(wildcard cgi-scripts/*.pl)
+BIN_CGI_PERL = $(addprefix $(CGI_BIN_DIR)/,$(basename $(notdir $(SRC_CGI_PERL))))
+
 SRC_PERL = $(wildcard scripts/*.pl)
 BIN_PERL = $(addprefix $(BIN_DIR)/,$(basename $(notdir $(SRC_PERL))))
 DEPLOY_PERL = $(addprefix $(TARGET)/bin/,$(basename $(notdir $(SRC_PERL))))
@@ -29,7 +32,7 @@ TPAGE_ARGS = --define kb_top=$(TARGET) --define kb_runtime=$(DEPLOY_RUNTIME) --d
 
 all: bin 
 
-bin: $(BIN_PERL) $(BIN_SERVICE_PERL)
+bin: $(BIN_PERL) $(BIN_SERVICE_PERL) $(BIN_CGI_PERL)
 
 deploy: deploy-all
 deploy-all: deploy-client 
@@ -69,5 +72,8 @@ $(BIN_DIR)/%: service-scripts/%.pl $(TOP_DIR)/user-env.sh
 
 $(BIN_DIR)/%: service-scripts/%.py $(TOP_DIR)/user-env.sh
 	$(WRAP_PYTHON_SCRIPT) '$$KB_TOP/modules/$(CURRENT_DIR)/$<' $@
+
+$(CGI_BIN_DIR)/%: cgi-scripts/%.pl $(TOP_DIR)/user-env.sh
+	$(WRAP_PERL_SCRIPT) '$$KB_TOP/modules/$(CURRENT_DIR)/$<' $@.cgi
 
 include $(TOP_DIR)/tools/Makefile.common.rules

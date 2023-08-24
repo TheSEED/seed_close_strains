@@ -340,7 +340,9 @@ sub build_tree {
     my($csD) = @_;
 
     &SeedUtils::run("CS_build_fasta_for_phylogeny -d $csD");
-    &SeedUtils::run("pg_build_newick_tree -d $csD");
+
+    my $threads = $ENV{P3_ALLOCATED_CPU} ? "-t $ENV{P3_ALLOCATED_CPU}" : "";
+    &SeedUtils::run("pg_build_newick_tree -d $csD $threads");
     my @labels = map { ($_ =~ /^(\S+)\t(\S.*\S)/) ? "$1\t$1: $2" : () } read_file("$csD/genome.names");
     my($labels_fh, $labels_file)  = tempfile();
     foreach $_ (@labels)

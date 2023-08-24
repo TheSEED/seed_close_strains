@@ -16,7 +16,7 @@ GetOptions("h|help"     => \$help,
 
 $dir && !$help or die $usage;
 
-$thread ||= 4;
+$thread ||= 2;
 
 my $sub_dir = "$dir/FastaForPhylogeny";
 my $seq_dir = "$sub_dir/Fasta";
